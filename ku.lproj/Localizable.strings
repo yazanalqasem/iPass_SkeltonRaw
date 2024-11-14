@@ -1,0 +1,382 @@
+/*
+  Localizable.strings
+
+  
+*/
+
+
+"amplify_ui_liveness_get_ready_page_title" = "Pirsgirêka Jiyana";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "Şaneşînebûna Foto";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "Ev testî rengek cuda
+dimîne. Di qebûl kirinê de xawîtiyekê bikin heger tu dikarî bêşîndarî.";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "Agahdariya Şaneşînebûna
+Foto";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "Agahdariya Şaneşînebûna
+Foto";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "Mirov dikarin
+tiştek bixwe bibin li ser rûyê wan herêmên tiştek bişkînin. Di qebûl kirinê de xawîtiyekê bikin
+heger tu, yan herkes di malbata te de, rewşa zîndanîbûnê ya xwe ya zîndanîbûnê hebe.";
+"amplify_ui_liveness_get_ready_begin_check" = "Testê dest pê bike";
+"amplify_ui_liveness_challenge_recording_indicator_label" = "REC";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "Pozîsyona
+rûyê xwe lê pirzûne serdem";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "Rûyê xwe li
+ser şaneşînê bihêltîne";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "Paşve vegerîne";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "Nêzîkî bike";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "Rûyê xwe
+bi ber çavê kamerayê ve hîn bike";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "Tenê yek rûy li
+her testê";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "Stendin";
+"amplify_ui_liveness_challenge_connecting" = "Têkildarî ...";
+"amplify_ui_liveness_challenge_verifying" = "Test kirin ...";
+"amplify_ui_liveness_challenge_cancel_a11y" = "Pêşengiya Testê Vebijarkê Bike";
+"amplify_ui_liveness_camera_setting_alert_title" = "Guhartinên Kamera xwe biguherîne";
+"amplify_ui_liveness_camera_setting_alert_message" = "Ruxandinê mirinên kamera li
+heman";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "Guhartinê
+guherîn";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "Niha niha";
+"amplify_ui_liveness_close_button_a11y" = "Xwe bigire";
+"amplify_ui_liveness_center_your_face_text" = "Rûyê xwe navbêje";
+"amplify_ui_liveness_camera_permission_page_title" = "Pirsgirêka Jiyana";
+"amplify_ui_liveness_camera_permission_button_title" = "Guhartinên Kamera Biguherîne";
+"amplify_ui_liveness_camera_permission_button_header" = "Kamera tenê têkildar nabe";
+"amplify_ui_liveness_camera_permission_button_description" = "Hûn dikarin bixwazin ku
+hûn bixin settings da ku ruxandinên kamera bibin û appê bixwin û dîsa hewl bê dayîn.";
+"amplify_ui_liveness_face_not_prepared_reason_pendingCheck" = " ";
+"amplify_ui_liveness_face_not_prepared_reason_not_in_oval" = "Rûyê xwe ji bo ku bi oval
+bibin hilbijêrin";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_closer" = "Nêzîkirina rûyê";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_right" = "Rûyê xwe bi rastî ve
+hîn bike";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_left" = "Rûyê xwe bi çepê ve
+hîn bike";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_dimmer_area" = "Bi aliyê
+hingivên hilçûn";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_brighter_area" = "Bi aliyê
+ronahiya zêrîn";
+"amplify_ui_liveness_face_not_prepared_reason_no_face" = "Rûyê xwe bi ber çavê
+kamerayê ve hîn bike";
+"amplify_ui_liveness_face_not_prepared_reason_multiple_faces" = "Tenê yek rûy li her
+testê";
+"amplify_ui_liveness_face_not_prepared_reason_face_too_close" = "Rûyê xwe ji dûr ve hîn
+bike";
+
+
+"full_process_title" = "Pêvajoya Tevahî";
+"full_process_desc" = "Scenariya pêvajoya weyê ku hemû agahiyên belgeyê bistîne.";
+
+"bank_card_title" = "Kartê Bankê";
+"bank_card_desc" = "Scenariya pêvajoya ku agahiyên kartê bankê bistîne.";
+
+"mrz_title" = "MRZ";
+"mrz_desc" = "Scenariya pêvajoya ku agahiyên MRZ bistîne.";
+
+"id_spoffing_title" = "Tewandina Nasnameyê";
+"id_spoffing_desc" = "Li dor xelatandina an guhertina hûrguliyên nasnameya belgeyê ye.";
+
+"passive_liveness_title" = "Jiyanên Pasîf";
+"passive_liveness_desc" = "Jiyanên pasîf çarêkeka ewlehiyê ye ku rastiyê bikarhêner test dike.";
+
+"face_matching_title" = "Hevbendiya Rûyê";
+"face_matching_desc" = "Di vê pêvajoyê de em wêneya du rûyan hevrêz dikin da nasbikin ku yên yek kes in an na.";
+
+
+"age" = "Temen";
+"dismiss" = "Lêdan";
+"portrait_comparison" = "Pêşandana Wêneyê";
+"portrait_vs_camera" = "Wêneya Pêşandana vs Wêneya Kamera";
+"liveness_score" = "Dîmenên Jiyanê:";
+"face_matching_score" = "Dîmenên Wêneyê:";
+"biometric_verification" = "Pêşandana Biyometrik";
+"face_matching" = "Wêneya Wêne";
+"liveness_check" = "Kontrolê Jiyanê";
+"document_verification" = "Pêşandana Belge";
+"optical" = "Optîk";
+"document_type" = "Cureya Belge";
+"text_fields" = "Qada Nivîs";
+"image_quality" = "Qualitêya Wêne";
+"authenticity" = "Rastiyê";
+"rfid_chip" = "Çip RFID";
+"bac" = "Kontrolê Girişê Bingehîn";
+"pace" = "Dabeşkirina Girêdana Nîşanî bi Şîfre";
+"ca" = "Pêşandana Çip";
+"ta" = "Pêşandana Termînal";
+"aa" = "Pêşandana Çalak";
+"pa" = "Pêşandana Pasîf";
+"metadata" = "Meta Daneyên";
+"optical_processing" = "Pêşandina Optîk";
+"rfid_chip_processing" = "Pêşandina Çip RFID";
+"selfie_time" = "Dema Selfie!";
+"get_ready" = "Amade Bikin";
+"good_illumination" = "Ronahiyeke Baş.";
+"no_accessories" = "Bê Pêwendiyan: gözlük, maska, kela, hwd.";
+"camera_at_eye" = "Kamera li astê çavê.";
+"go" = "Çû";
+"powered_by" = "Bi iPass ve tê parastin";
+"passive_liveness" = "Jiyanê Pasîf";
+"liveness_confidence" = "Astengiya Jiyanê";
+"liveness_status" = "Rewşa Jiyanê";
+"rejected" = "Redkirî";
+"passed" = "Bêjeyî";
+"warning" = "Agahdariya";
+"front" = "Pêş";
+"back" = "Paş";
+"origin" = "Çavkanî";
+"reasons" = "Sedemên";
+"liveness" = "Jiyan";
+"image_pattern" = "Şêwaza Wêne";
+"barcode_format" = "Formatê Barkodê";
+"photo_embedding" = "Wêne Guhastin";
+"ipi" = "ipi";
+"colorness" = "Rengî";
+"focus" = "Têkildarî";
+"glares" = "Lûçik";
+"potrait" = "Wêne";
+"bounds" = "Sînor";
+"angle" = "Bendê Perspektîfê";
+"resolution" = "Çareser";
+
+"general" = "Giştî";
+"settings" = "Veşartinên";
+"verification_statuses" = "Rewşa Piştrastkirinê";
+"about_app" = "Derbarê Sepanê";
+"review_the_app" = "Sepana Temaşe bike";
+"share_the_app" = "Sepana Parve bike";
+"get_in_touch" = "Têkiliya me re bîne";
+"contact_us" = "Pêwendiyê bi me re bike";
+"help_center" = "Navenda Alîkariyê";
+"learn_more" = "Zanîyara Zêdetir Bizin";
+"visit_website" = "Malpera me Serdane bike";
+"view_on_store" = "Di Store de Bibîne";
+"legal" = "Yasayî";
+"privacy_policy" = "Rêzpolîtîka Taybetî";
+
+"about_us" = "
+        Ev serlêdan destûrê daye te ku dane û zelalî bîrihên belgefên nasnameyan (pasaport, kartên nasnameyê, lîsansên ajokirinê, destûrên ramanê, vizayan, kartên serfirazbûnê, hwd.) û kartên bankê bixwînî û piştrast bikî.
+ 
+        Belgeyek bi temamî di çarçoveyê de binirîne, ew bi otomatik ve dihatî nas kirin, xirab kirin û nas kirin. Cureya belgeyê bi otomatik ve nas dibe. MRZ, qada dîtinê û barcodên têne nas kirin û di qada nivîsînê de têne veguherîn. Zeviyên grafîkî bi otomatik ve têne xirab kirin.
+ 
+        Piçûk piçûk kirina daneyî pîştrastî dibe piştî ku têne xwendin, ku têgihîştin e, û rewşa pîştrastiyê ya gihanînê tê xuyang kirin.
+ 
+        Hemû piçûk piçûk kirin ji ser tekom diqewime, hîç daneyî di derveyî amirê te nayine.
+ 
+        Ji kerema xwe, em re têkiliyê bidegerin heke tu hinek pirsan, kêşeyan an jî daxwazan hene.
+";
+
+
+"verification_statuses" = "Rewşa pejirandinê";
+"success" = "Serkeftin";
+"failed" = "Şewitand";
+"id_document_verification" = "Pejirandina belgeya nasnameyê";
+"id_document_expiration" = "Pejirandina qebûlkirina belgeya nasnameyê";
+"face_comparison" = "Peywendiya rû (wêneyên rûyê peywendî dikin û diyar dikin ku gava wan hevseng in)";
+"liveness_check_str" = "Pêşniyara zindî (pejirandina ku rûyê ku li ser amûrê mobîl tê nîşandan, tiştek zindî ye)";
+
+"identity_verification" = "Pêbaweriya Nasnameyê";
+"scanning_settings" = "Mîhenganên Scanê";
+"sound_vibration" = "Deng û Lelqîn";
+"instructions" = "Rêbername";
+"multipage_processing" = "Pêşkeftina Pelên Pirr";
+"double_page" = "Pêşkeftina Rûpelên Dûbî";
+"rfid_chip_processing" = "Pêşkeftina Çîpa RFID";
+"sound" = "Deng";
+"vibration" = "Lelqîn";
+"show_instructions" = "Nîşandanê Rêbernameyan";
+"advanced" = "Pêşketî";
+"reset_all_settings" = "Vegerandina Hemî Mîhenganan";
+"portrait_with_selfie" = "Lihevkirina Wêneya Nasnameyê Bi Selfîyê";
+"multipage_processing_desc" = "Bikêrkirina Pêşkeftina Belgeyên Pirr-rûpelî";
+"double_page_desc" = "Bikêrkirina Pêşkeftina Belgeyên Dûrûpelî";
+"rfid_chip_processing_desc" = "Destpêkirina Xwendina RFID piştî qedandiya belgeyê";
+"sound_desc" = "Deng bide dema pêşkeftin qediya";
+"vibration_desc" = "Lelqîn bike dema pêşkeftin qediya";
+"show_identity_desc" = "Nîşandana rêbernameya scanê ya nasnameyê";
+"interface_settings" = "Mîhenganên Navberê";
+"debug" = "Çewtbirin";
+"capture_button" = "Piştoka Girtinê";
+"camera_switch" = "Piştoka Kamera Guhartinê";
+"hint_messages" = "Peyamên Hilbijartinê";
+"help" = "Alîkarî";
+"language" = "Ziman";
+"timeout" = "Demjimêrê";
+"timeout_detection" = "Demjimêrê ji destpêkirina nasina belgeyê ve";
+"timeout_identification" = "Demjimêrê ji nasîna celebê belgeyê ve";
+"motion_detection" = "Nasîna Tevgerê";
+"focusing_detection" = "Nasîna Rikxistinê";
+"processing_modes" = "Moda Pêşkeftinê";
+"camera_resolution" = "Çûnahiya Kamera";
+"adiust_zoom" = "Ajiya Qelewkirinê Rêxistin";
+"zoom_level" = "Ajiya Qelewkirinê";
+"manual_crop" = "Tevgerandina Destî";
+"minimum_dpi" = "Kêmî DPI";
+"perspective_angle" = "Gumguma Xwarina";
+"integral_image" = "Wêneya Tam";
+"hologram_detection" = "Nasîna Holograma";
+"image_quality" = "Qilîteya Wêneyê";
+"date_format" = "Formatê Dîrokê";
+"document_filter" = "Parzûnkirina Belgeyê";
+"custom_parameters" = "Parametreyên Taybet";
+
+"button_for_capturing" = "Piştoka girtinê nîşan bide da ku çarçoveyek yekem girtin û pêşkeftinê bike";
+"button_for_switching" = "Piştoka guherandina di nav kamera de nîşan bide di dema pêşkeftinê de";
+"hints_during_video" = "Têgihiştin nîşan bide di dema pêşkeftina vîdyoyê de";
+"instructional_animation" = "Demonstrasyona fêrgehê nîşan bide dema scanê dest pê dike";
+"application_language" = "Zimanê sepanê diyar bike";
+"pause_scanning" = "Pausê girtinê bike heke tevgera girîng a telefonê tê dîtin";
+"camera_is_focusing" = "Pausê girtinê bike dema kamera tê xebitandin. Ev dikare zêdebûna xebata kamera kêm bike";
+"select_date_format" = "Formatê dîrokê ji bo encamên hilbijêre";
+
+"sound_settings" = "ŞÊWAZA DENGÊ";
+"select_sound" = "DENGA HILBIJARTÎ";
+"sound_enabled" = "Deng çalak e";
+"beep1" = "Bip1";
+"beep2" = "Bip2";
+"beep3" = "Bip3";
+"beep4" = "Bip4";
+"beep5" = "Bip5";
+
+"save_event_logs" = "Tomara bûyeran biparêze";
+"save_images" = "Wêneyan biparêze";
+"save_cropped_images" = "Wêneyan ku têne qirêj kirin biparêze";
+"save_rfid_session" = "Dema RFID biparêze";
+"report_event_logs" = "Rapora tomara bûyeran";
+"show_metadata" = "Naverokên metadata nîşan bide";
+"save_event_logs_desc" = "Tomara bûyeran li ser amûrê biparêze";
+"save_images_desc" = "Wêneyan biparêze (bo fûnksiyona xeta)";
+"save_cropped_images_desc" = "Wêneyan ku têne qirêj kirin biparêze (bo fûnksiyona xeta)";
+"save_rfid_session_desc" = "Dema RFID li ser amûrê biparêze (bo xetayê)";
+"auto" = "Xwe";
+"video_processing" = "Pêvajoya vîdyoyê";
+"frame_processing" = "Pêvajoya çarçoveyê";
+"photo" = "Wêne";
+"high" = "Bilind";
+"medium" = "Navîn";
+"low" = "Kêm";
+"352_288" = "352×288";
+"640_480" = "640×480";
+"iframe960_540" = "iFrame960×540";
+"iframe1280_720" = "iFrame1280×720";
+"1280_720" = "1280×720";
+"1920_1080" = "1920×1080";
+"3840_2160" = "3840×2160";
+
+"glares" = "Lîşkan";
+"focus" = "Berxwedan";
+"color" = "Reng";
+"dpi_threshold" = "Sînorê DPI";
+"angle_threshold" = "Sînorê angulê";
+"document_position" = "Cihê belgeyê: Çepê";
+"minimum_indent_from" = "Minimum çepê ji çepên belgeyê bo sinorên wêneyê";
+
+"default" = "Default";
+"dd/mm/yyyy" = "dd/mm/yyyy";
+"mm/dd/yyyy" = "mm/dd/yyyy";
+"dd-mm-yyyy" = "dd-mm-yyyy";
+"mm-dd-yyyy" = "mm-dd-yyyy";
+"dd/mm/yy" = "dd/mm/yy";
+
+"procedure_type" = "Cureya prosedûra nasnameyê";
+"messaging_procedure" = "Prosedûra mesajê ewlekarî ya bingehîn";
+"access_key" = "Kîlîta girtina daneyê";
+"keys_value" = "Nirxa kîlîtên girtina daneyê";
+"ds_certificates" = "Pêşniyara bikaranîna belgeyên DS";
+"csca_certificates" = "Bikaranîna belgeyên CSCA ya derveyî";
+"pkd_certificates" = "Belgeyên PKD yên erka";
+"passive_aAuthentication" = "Nasnameya pasîf (PA)";
+"aa_after_ca" = "Pêşniya AA piştî CA ne kirin";
+"profiler_type" = "Cureya profîlê";
+"strict_iso" = "Protokola ISO ya pêşkeftî";
+
+"read_passport" = "Pasportê bixwîne";
+"machine_readable_zone" = "Herêma ku makîna dixwîne (DG1)";
+"facial_data" = "Daneyên rû (DG2)";
+"fingerprints" = "Pêşkan (DG3)";
+"iris_data" = "Daneyên iris (DG4)";
+"portrait_dg5" = "Wêne(yan) (DG5)";
+"dg6" = "ne tê defin kirin (DG6)";
+"dg7" = "Wêneya nîşana / nîşana herî zêde (DG7)";
+"dg8" = "Ne tê defin kirin (DG8)";
+"dg9" = "Ne tê defin kirin (DG9)";
+"dg10" = "Ne tê defin kirin (DG10)";
+"de11" = "Detailsên zêde yên kesayeti (De11)";
+"dg12" = "Detailsên zêde yên belge (DG12)";
+"dg13" = "Detailsên hînbûn (DG13)";
+"dg14" = "Agahdariyên EAC (DG14)";
+"dg15" = "Agahdariyên nasnameya aktîf (DG15)";
+"dg16" = "Kes (kesên) ku pêşniyar bibe (DG16)";
+
+"Read_elD" = "elD bixwîne";
+"data_groups" = "Grûbên daneyê";
+"document_type_dg1" = "Cureya belge (DG1)";
+"issuing_state_dg2" = "Dewletê derbarê (DG2)";
+"date_of_expiry_dg3" = "Dîrokê qediya (DG3)";
+"given_name_dg4" = "Navê taybet (DG4)";
+"family_name_dg5" = "Navê malbatê (DG5)";
+"pseudonym" = "Navê ji bo taybet (DG6)";
+"academic_title" = "Sernavê akademîk (DG7)";
+"date_of_birthdg8" = "Dîrokê zayînê (DG8)";
+"place_of_birth_dg9" = "Cihê zayînê (DG9)";
+"2dg10" = "Neteweyê (DG10)";
+"2dg11" = "Cins (DG11)";
+"2dg12" = "Detailsên hînbûn (DG12)";
+"2dg13" = "Ne tê defin kirin (DG13)";
+"2dg14" = "Ne tê defin kirin (DG14)";
+"2dg15" = "Ne tê defin kirin (DG15)";
+"2dg16" = "Ne tê defin kirin (DG16)";
+"2dg17" = "Cihê qeydê (DG17)";
+"2dg18" = "Cihê qeydê (DG18)";
+"2dg19" = "Permezê rûniştinê 1 (DG19)";
+"2dg20" = "Permezê rûniştinê 2 (DG20)";
+"2dg21" = "Detailsên hînbûn (DG21)";
+
+"3read_eDL" = "eDL bixwîne";
+"3data_groups" = "Grûbên daneyê";
+"3text_data_elements" = "Lêçûnên daneyê nivîsî (DG1)";
+"3dg2" = "Agahdariyên girtinê (DG2)";
+"3dg3" = "Detailsên idareya derbarê (DG3)";
+"3dg4" = "Wêneya portre (DG4)";
+"3dg5" = "Wêneya nîşana / nîşana herî zêde (DG5)";
+"3dg6" = "Biyometrî - Daneyên rû (DG6)";
+"3dg7" = "Biyometrî - Pêşkan (DG7)";
+"3dg8" = "Biyometrî - Daneyên iris (DG8)";
+"3dg9" = "Biyometrî - Yên din (DG9)";
+"3dg10" = "Ne tê defin kirin (DG10)";
+"3dg11" = "Danegeha malperî yên hînbûn (DG11)";
+"3dg12" = "Agahdariya ne girtin (DG12)";
+"3dg13" = "Agahdariyên nasnameya aktîf (DG13)";
+"3dg14" = "Agahdariyên EAC (DG14)";
+
+
+"settings" = "Mîheng";
+"enable" = "Çalak bikin";
+"disable" = "Neçalak bikin";
+"advanced_settings" = "Mîhengên pêşketî";
+"debug_settings" = "Mîhengên çewtgerî";
+"event_logs" = "Tomarên bûyeran";
+"no_data_found" = "Daneyên nehatin dîtin";
+"set_application_language" = "Zimanê sepanyê saz bikin";
+"language_points" = "1. Berdan berdewamkirinê bikirtin. Paceya nû yê nû bi kirinê têve.
+2. Ziman bikirtînin bo hilbijartina zimana hewce.";
+"language_desc" = "Ger tu mîhengên zimane tune ne, biçe mîhengên zimana cîhaza xwe û zimana bijartîyê saz bikin.";
+"continue" = "Berdewamkirin";
+"cancel" = "Bişûndekirin";
+"video_settings" = "Sazîyên vîdyoyê";
+"standard_inspection_procedure" = "Prosedûra kontrolê ya standard";
+"advance_inspection_procedure" = "Prosedûra kontrolê ya pêşkeftî";
+"general_inspection_procedure" = "Prosedûra kontrolê ya giştî";
+"only_bac" = "BAC";
+"only_pace" = "PACE";
+"iso_protocol" = "Protokola ISO";
+"of_external_csca" = "ya CSCA ya derveyî";
+"2006" = "Doc 9303, çapê 6, 2006";
+"2014" = "LSD û Parastina PKI, v2.0, 21 Gulan 2014";
+"only_rfid" = "RFID";
+"only_authentication" = "Nasname";
+"menu" = "Menu";
+"choose_image" = "Wêne hilbijêre";
+"camera" = "Kamera";
+"gallery" = "Galerî";
+

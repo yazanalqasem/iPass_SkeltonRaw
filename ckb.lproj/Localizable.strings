@@ -1,0 +1,371 @@
+/*
+  Localizable.strings
+
+  
+*/
+
+
+"amplify_ui_liveness_get_ready_page_title" = "پشکنینی ژینگە";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "ئاگاداری هەست بە ڕووناکی";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "ئەم پشکنینە ڕەنگە جیاوازەکان گەورە دەکات. بە بەردەوامی بەکاربە؛ ئەگەر بە ڕووناکی هەست دەکەیت.";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "زانیاری هەست بە ڕووناکی";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "ئاگاداری هەست بە ڕووناکی";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "هەندێک کەسان دەتوانن هەستی هەڵەییەکان هەست بکەن کاتێک بە ڕووناکی ڕەنگەکان دابن. بە بەردەوامی بەکاربە، ئەگەر تۆ یان هەر کەسێک لە خێزانەکەتەوە، ڕووناکی بەپێی شتێکیەوە هەست دەکەن.";
+"amplify_ui_liveness_get_ready_begin_check" = "پشکنینی ڤیدیۆ دەستپێ بکە";
+
+
+"amplify_ui_liveness_challenge_recording_indicator_label" = "تۆمارکردن";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "پەیوەندیدانی دەست لە مەودایەک.";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "لە کەیسی ڕەنگەکانەدا دەست دەست بکه‌.";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "پاشببە";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "نزیکتر ببە";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "پەیوەندیدانی وێنەی لە بەرامبەر کامێرا";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "تەنها یەک وێنە لە هەر پشکنینێک";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "هەر ڕووکەوە";
+
+"amplify_ui_liveness_challenge_connecting" = "پەیوەندی...";
+"amplify_ui_liveness_challenge_verifying" = "پشکنینی";
+"amplify_ui_liveness_challenge_cancel_a11y" = "ڕەتی پشکنین";
+
+"amplify_ui_liveness_camera_setting_alert_title" = "دێکارەکەی خۆت بەکارهێنە";
+"amplify_ui_liveness_camera_setting_alert_message" = "ڕێگاپێدانەکانی دێکارەکەت هەڵبژێرە لە تنظیمات.";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "ڕێگاکردنەوە";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "نیە ئەم کاتە";
+
+"amplify_ui_liveness_close_button_a11y" = "داخستن";
+
+"amplify_ui_liveness_center_your_face_text" = "وێنەکەت لە ناوەڕاست بکە";
+"amplify_ui_liveness_camera_permission_page_title" = "پشکنینی ژینگە";
+"amplify_ui_liveness_camera_permission_button_title" = "گۆڕینی تنظیمات";
+"amplify_ui_liveness_camera_permission_button_header" = "کامێرا بەردەست نییە";
+"amplify_ui_liveness_camera_permission_button_description" = "ئەگەر بەکارهێنانەکان بەڕێگادەنە، دەبێت بە کامێرا ڕێگاپێدابیت و ئەپەکە پەیوەندیدانی دەست بە چالاک کە.";
+
+"amplify_ui_liveness_face_not_prepared_reason_pendingCheck" = " ";
+"amplify_ui_liveness_face_not_prepared_reason_not_in_oval" = "وێنەکەت لە ناوەڕاست بکە";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_closer" = "نزیکتر ببە";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_right" = "چپتر ببە";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_left" = "ڕاستتر ببە";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_dimmer_area" = "بەناوبەندتر ببە";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_brighter_area" = "رووناکتر ببە";
+"amplify_ui_liveness_face_not_prepared_reason_no_face" = "پەیوەندیدانی وێنەی لە بەرامبەر کامێرا";
+"amplify_ui_liveness_face_not_prepared_reason_multiple_faces" = "تەنها یەک وێنە لە هەر پشکنینێک";
+"amplify_ui_liveness_face_not_prepared_reason_face_too_close" = "دوراترببە";
+
+
+"full_process_title" = "پرۆسەی تەواو";
+"full_process_desc" = "سناریۆی پرۆسە بۆ بەدەستهێنانی زانیارییەکان لەسەر هەموو بەڵگەکان.";
+
+"bank_card_title" = "کارتێکی بانک";
+"bank_card_desc" = "سناریۆی پرۆسە بۆ بەدەستهێنانی زانیاریی کارتی بانکی.";
+
+"mrz_title" = "MRZ";
+"mrz_desc" = "سناریۆی پرۆسە بۆ بەدەستهێنانی زانیاریی MRZ.";
+
+"id_spoffing_title" = "ئینتحالی ناسنامە";
+"id_spoffing_desc" = "دەربەر دەکات خوێندنەوە یان گۆڕینی وردەکاریی ناسنامەکانی بەڵگە.";
+
+"passive_liveness_title" = "ژیانی پاسڤ";
+"passive_liveness_desc" = "ژیانی پاسڤ تاکنیکی ئیمناسازیە بۆ دڵنیاکردنەوەی ڕاستی کەسێک.";
+
+"face_matching_title" = "هاوپێچکردنی دەموچاو";
+"face_matching_desc" = "لە ئەم پرۆسەیەدا، ئێمە دوو وێنەی دەموچاو پێکدەهێنیت بۆ دیاری‌کردنی ئەگەر هەردوو وێنەکە بۆ یەک کەس بێت.";
+
+
+"age" = "تەمەن";
+"dismiss" = "لابردن";
+"portrait_comparison" = "بەراوردکردنی وێنەی پرۆفایل";
+"portrait_vs_camera" = "وێنەی پرۆفایل بەرامبەر وێنەی کامێرا";
+"liveness_score" = "نمرەی ژیانبەری:";
+"face_matching_score" = "نمرەی هاوتاوکردنی ڕووی:";
+"biometric_verification" = "پشکنینی بایۆمەتریک";
+"face_matching" = "هاوتاوکردنی ڕوو";
+"liveness_check" = "پشکنینی ژیانبەری";
+"document_verification" = "پشکنینی بەڵگەنامە";
+"optical" = "چاوەڕوانی";
+"document_type" = "جۆری بەڵگەنامە";
+"text_fields" = "خانەکانی دەق";
+"image_quality" = "کەیفیەتی وێنە";
+"authenticity" = "ڕاستی";
+"rfid_chip" = "چیپی RFID";
+"bac" = "کۆنتڕۆڵی بەهێزکردنی دەستپێک";
+"pace" = "دروستکردنی پەیوەندی تۆمارکراو بە تێپەڕەوشە";
+"ca" = "دڵنیاکردنەوەی چیپ";
+"ta" = "دڵنیاکردنەوەی کۆمپیووتەری";
+"aa" = "دڵنیاکردنەوەی چالاک";
+"pa" = "دڵنیاکردنەوەی نییە";
+"metadata" = "زانیاری بەڵگە";
+"optical_processing" = "کارکردنی چاوەڕوانی";
+"rfid_chip_processing" = "کارکردنی چیپی RFID";
+"selfie_time" = "کاتی سیلفی!";
+"get_ready" = "ئامادەبە";
+"good_illumination" = "ڕووناكی باش.";
+"no_accessories" = "بێ پەیوەندەکەرەکان: عینەک، ماسک، کڵاو وەک ئەوە.";
+"camera_at_eye" = "کامێرا لە ئاستی چاوەکان.";
+"go" = "بڕۆ";
+"powered_by" = "بە هەمای iPass";
+"passive_liveness" = "ژیانبەری نییە";
+"liveness_confidence" = "پشتگیری ژیانبەری";
+"liveness_status" = "دۆخی ژیانبەری";
+"rejected" = "ڕەتکرایەوە";
+"passed" = "دەستیپێکرا";
+"warning" = "ئاگادارکردنەوە";
+"front" = "پێشوو";
+"back" = "پاشوو";
+"origin" = "سەرچاوە";
+"reasons" = "هۆکارەکان";
+"liveness" = "ژیانبەری";
+"image_pattern" = "شێوازی وێنە";
+"barcode_format" = "شێوازی بارکۆد";
+"photo_embedding" = "تۆمارکردنی وێنە";
+"ipi" = "ipi";
+"colorness" = "ڕەنگی";
+"focus" = "تکایە";
+"glares" = "چمکە";
+"potrait" = "وێنە";
+"bounds" = "سرحدەکان";
+"angle" = "زاویە";
+"resolution" = "چاره‌سەر";
+
+"general" = "گشتی";
+"settings" = "ڕێکخستنەکان";
+"verification_statuses" = "باری پشتڕاستکردنەوە";
+"about_app" = "دەربارەی ئاپەکە";
+"review_the_app" = "پێداچوونەوەی ئاپەکە";
+"share_the_app" = "هاوبەشکردنی ئاپەکە";
+"get_in_touch" = "پەیوەندیمان پێوە بکە";
+"contact_us" = "پەیوەندی کردن";
+"help_center" = "بەشی یارمەتی";
+"learn_more" = "زانیاری زۆرتر";
+"visit_website" = "سەردانی ماڵپەڕەکەمان بکە";
+"view_on_store" = "لە سیتۆری ئاپ بینە";
+"legal" = "یاسایی";
+"privacy_policy" = "سیاسەتی تایبەتمەندی";
+
+"about_us" = "
+        ئەم بەرنامەیە ڕێگای پێدەدات بۆ خوێندنو پشتڕاستکردنەوەی زانیاری لە بەلگەی ناسنامەکان (پاسپۆرت، کارتی ناسنامە، مۆڵەتی ئۆتۆمبێل، مۆڵەتی نیشتەجێبوون، ڤیزا، کارتی سەربەخۆبوون، و هتد.) و کارتی بانک.
+ 
+        بەلگەیەک بە تەواوی لە ناوچەکەی ناو قەبارەکە دانێ، بەلگەکە خۆکارانە دەتەوێتەژوورەوە، دابنرێتەوە و دەناسێنرێتەوە. جۆری بەلگەکە بەخۆکارانە دەناسێنرێت. ناوچە MRZ، ناوچەی بینراو و بارکۆد دەناسێنرێن و دەگوازنەوە بۆ خانەی دەق. خانە گرافیکیەکان بەخۆکارانە دابنرێنەوە.
+ 
+        پشتڕاستکردنەوەی زانیاریەکان دوای خوێندنەوە ئەنجام دەدرێت، کاتێک پێویست بێت، و باری گشتی پشتڕاستکردنەوە دەردەبرێت.
+ 
+        هەموو پرۆسەکان بە تەواوی سەربەخۆ دەکرێنەوە، هیچ زانیاریەکیش لە ئامێری تۆ دەرناچێت.
+ 
+        تکایە پەیوەندی بە ئێمە بکە ئەگەر هەرتۆ پەیڤەیەکت هەبێت، کێشە یان پێشنیارێکت هەبێت.
+";
+
+"verification_statuses" = "وەستانی پشتڕاستکردنەوە";
+"success" = "سەرکەوتن";
+"failed" = "بەرخۆدان";
+"id_document_verification" = "پشتڕاستکردنەوەی بەلگەی ناسنامە";
+"id_document_expiration" = "پشتڕاستکردنەوەی کاتی کەوتنی بەلگەی ناسنامە";
+"face_comparison" = "مقايسەی ڕووبەرو (وێنەی ڕووبەرو بەرەوپێش دەبەخشێت و دیاریدەکات ئەیا هەمانندە)";
+"liveness_check_str" = "پشتڕاستکردنەوەی زندەیی (پشتڕاست دەکات ئەیا ڕووبەری پێشکەوتوو بەرەوپێش بەرنامەی موبایل زانیاریەکی زندهە)";
+
+
+"identity_verification" = "پشتڕاستکردنەوەی ناسنامە";
+"scanning_settings" = "دانانەوەی ڕێکخستنەکانی سکانکردن";
+"sound_vibration" = "دەنگ و لەرزین";
+"instructions" = "رێنماییەکان";
+"multipage_processing" = "چالاککردنی پەڕەی زۆر";
+"double_page" = "چالاککردنی پەڕەی دووجارە";
+"rfid_chip_processing" = "چالاککردنی چێپەی RFID";
+"sound" = "دەنگ";
+"vibration" = "لەرزین";
+"show_instructions" = "پیشاندانی رێنماییەکان";
+"advanced" = "پێشکەوتوو";
+"reset_all_settings" = "ڕێکخستنەکان گەراندنەوە بۆ بنەڕەتی";
+"portrait_with_selfie" = "پەیوەندی نێوان وێنەی ڕەسەن و سیلفی";
+"multipage_processing_desc" = "چالاککردنی چالاکی پەڕەی زۆر";
+"double_page_desc" = "چالاککردنی پەڕەی دووپەڕە";
+"rfid_chip_processing_desc" = "چالاککردنی خوێندنی RFID کاتێک پەڕە تەواوە";
+"sound_desc" = "دەنگ بکە کاتێک پەڕە تەواوبێت";
+"vibration_desc" = "لەرزین بکە کاتێک پەڕە تەواوبێت";
+"show_identity_desc" = "پیشاندانی رێنماییەکانی سکانکردنی ناسنامە";
+"interface_settings" = "ڕێکخستنەکانی ڕووبەر";
+"debug" = "گروسیلکردن";
+"capture_button" = "دوگمەی ڕاگرتن";
+"camera_switch" = "دوگمەی گۆڕینی کامێرا";
+"hint_messages" = "پەیامە چاوپێکەوتەکان";
+"help" = "یارمەتی";
+"language" = "زمان";
+"timeout" = "کاتی کوژاوە";
+"timeout_detection" = "کاتی کوژاوە لە کاتی دیاری کردنەوەی پەڕە";
+"timeout_identification" = "کاتی کوژاوە لە کاتی دیاری کردنەوەی جۆری پەڕە";
+"motion_detection" = "دیاری کردنی هەریشە";
+"focusing_detection" = "دیاری کردنی ڕوونکردنەوە";
+"processing_modes" = "شێوازەکانی چالاککردن";
+"camera_resolution" = "ڕیزبوونی کامێرا";
+"adiust_zoom" = "چاککردنی ئاستی زووم";
+"zoom_level" = "ئاستی زووم";
+"manual_crop" = "دانانی بە دەستی";
+"minimum_dpi" = "کەمترین DPI";
+"perspective_angle" = "گۆشەی چاوەڕوانی";
+"integral_image" = "وێنەی گشتی";
+"hologram_detection" = "دیاری کردنی هۆلۆگرام";
+"image_quality" = "چێژەی وێنە";
+"date_format" = "شێوازی بەروار";
+"document_filter" = "پارزەری پەڕە";
+"custom_parameters" = "پارامەتەرە تایبەتییەکان";
+
+
+"button_for_capturing" = "بەرەوپێش بەرزکردنەوە بۆ گرتن و پەڕەکردنی فریمێکی تایبەتی نیشان بدە";
+"button_for_switching" = "بەرەوپێش بەرزکردنەوە بۆ گۆرینی نێوان کەمێرەکان لە کاتی پەرەکردن";
+"hints_during_video" = "بەرەوپێش بەرزکردنەوە بۆ نیشانی پەیامەکان لە کاتی پەرەکردنی ڤیدیۆ";
+"instructional_animation" = "بەرەوپێش بەرزکردنەوە بۆ نیشانی کەسی ڕووناکی کە لە کاتی نیشانکردنەوە دەستپێبکات";
+"application_language" = "زبانەکانی ئەپلیکەیشنی دیاری بکە";
+"pause_scanning" = "پەرەکردن بپارێزە ئەگەر پەیوەندیدانی گەورە لە مۆبایلەوە دۆزرابێت";
+"camera_is_focusing" = "پەرەکردن بپارێزە لە کاتی کەمێرەکە کۆنترۆل کردنی بەرزە. ئەمە دەتوانێت کەرتی پەرەکردنی کەمێرەکە کەمتربکات";
+"select_date_format" = "فۆرماتەی ڕووداوەکان بۆ ئەنجامەکان دیاری بکە";
+
+
+"sound_settings" = "بەڕێوەبردنی دنگ";
+"select_sound" = "دنگی هەڵبژێردراو";
+"sound_enabled" = "دنگ چالاکە";
+"beep1" = "بپ1";
+"beep2" = "بپ2";
+"beep3" = "بپ3";
+"beep4" = "بپ4";
+"beep5" = "بپ5";
+
+"save_event_logs" = "تۆمارکردنی بەرھەمەکان";
+"save_images" = "وێنەکان تۆمار بکە";
+"save_cropped_images" = "وێنە کڕاپکراوەکان تۆمار بکە";
+"save_rfid_session" = "کاتژمێرە RFID تۆمار بکە";
+"report_event_logs" = "راپۆرتی بەرھەمەکان";
+"show_metadata" = "نیشانی زانیاری metadata بکە";
+"save_event_logs_desc" = "تۆمارکردنی بەرھەمەکان بۆ ئامێرەکان";
+"save_images_desc" = "وێنەکان تۆمار بکە (بۆ فەرمی هەڵە)";
+"save_cropped_images_desc" = "وێنە کڕاپکراوەکان تۆمار بکە (بۆ فەرمی هەڵە)";
+"save_rfid_session_desc" = "کاتژمێرە RFID تۆمار بکە بۆ ئامێرەکان (بۆ هەڵە)";
+"auto" = "خۆکار";
+"video_processing" = "پڕۆسەی ویدیو";
+"frame_processing" = "پڕۆسەی فریم";
+"photo" = "وێنە";
+"high" = "بەرز";
+"medium" = "نێوانی";
+"low" = "کەم";
+"352_288" = "352×288";
+"640_480" = "640×480";
+"iframe960_540" = "iFrame960×540";
+"iframe1280_720" = "iFrame1280×720";
+"1280_720" = "1280×720";
+"1920_1080" = "1920×1080";
+"3840_2160" = "3840×2160";
+
+"glares" = "بەردوخی چاو";
+"focus" = "بەرفراوانی";
+"color" = "رەنگ";
+"dpi_threshold" = "بەرزکردنی DPI";
+"angle_threshold" = "بەرزکردنی زاویدا";
+"document_position" = "بەرەوپیشی بەلگە: لەبەر";
+"minimum_indent_from" = "نرخی کەمترین لە کۆنەکان بەرەو حاڵەتی وێنە";
+
+"default" = "پێپێدانی";
+"dd/mm/yyyy" = "dd/mm/yyyy";
+"mm/dd/yyyy" = "mm/dd/yyyy";
+"dd-mm-yyyy" = "dd-mm-yyyy";
+"mm-dd-yyyy" = "mm-dd-yyyy";
+"dd/mm/yy" = "dd/mm/yy";
+
+
+"procedure_type" = "جۆری ڕووداوەکانی نیشانی";
+"messaging_procedure" = "پروسیجەی پەیامە بەسەردەنگیەکان";
+"access_key" = "کلیلی گەیشتن بە زانیاری";
+"keys_value" = "نرخی کلیلی گەیشتن بە زانیاری";
+"ds_certificates" = "پەرتووکانی DS بەرزتر بەرەوپێش";
+"csca_certificates" = "بەرزکردنەوەی پەرتووکانی CSCA نرخی";
+"pkd_certificates" = "بەسەرکارێنانی پەرتووکانی PKD";
+"passive_aAuthentication" = "پەیوەندیدانی نیشانی (PA)";
+"aa_after_ca" = "پەیوەندیدانی AA پاش CA نەکە";
+"profiler_type" = "جۆری پڕۆفایلەر";
+"strict_iso" = "پروتۆکۆلی ISO بە شێوەیەکی سەرەکی";
+
+"read_passport" = "پاسپورت بخوێنەوە";
+"machine_readable_zone" = "بەرزکردنەوەی زانیاری (DG1)";
+"facial_data" = "زانیاری چەهرە (DG2)";
+"fingerprints" = "بەرزکردنەوەی کەف (DG3)";
+"iris_data" = "زانیاری عێرە (DG4)";
+"portrait_dg5" = "پەیامە (DG5)";
+"dg6" = "ناتەواو (DG6)";
+"dg7" = "نیشانی / وێنەی نیشانی عەرەقی (DG7)";
+"dg8" = "ناتەواو (DG8)";
+"dg9" = "ناتەواو (DG9)";
+"dg10" = "ناتەواو (DG10)";
+"de11" = "زانیاری تایبەتی زیادە (De11)";
+"dg12" = "زانیاری بەڵگەی زیادە (DG12)";
+"dg13" = "زانیاری تایبەتی هەڵبژێردراوی (DG13)";
+"dg14" = "زانیاری EAC (DG14)";
+"dg15" = "زانیاری پەیوەندیدانی فعال (DG15)";
+"dg16" = "کەسە(کان) بۆ ئاگاداری (DG16)";
+
+"Read_elD" = "elD بخوێنەوە";
+"data_groups" = "کۆمەڵەی زانیاری";
+"document_type_dg1" = "جۆری بەڵگە (DG1)";
+"issuing_state_dg2" = "دولت بەرزکردنەوە (DG2)";
+"date_of_expiry_dg3" = "بەروارەی کۆتایی (DG3)";
+"given_name_dg4" = "ناوی پێشین (DG4)";
+"family_name_dg5" = "ناوی پێچووان (DG5)";
+"pseudonym" = "ناوی زانیاری (DG6)";
+"academic_title" = "ناوی فەرهەنگی (DG7)";
+"date_of_birthdg8" = "بەروارەی لەدایک بوونی (DG8)";
+"place_of_birth_dg9" = "شوێنی لەدایک بوونی (DG9)";
+"2dg10" = "نیشانی (DG10)";
+"2dg11" = "جنس (DG11)";
+"2dg12" = "زانیاری تایبەتی هەڵبژێردراوی (DG12)";
+"2dg13" = "ناتەواو (DG13)";
+"2dg14" = "ناتەواو (DG14)";
+"2dg15" = "ناتەواو (DG15)";
+"2dg16" = "ناتەواو (DG16)";
+"2dg17" = "شوێنی تۆمارکردن (DG17)";
+"2dg18" = "شوێنی تۆمارکردن (DG18)";
+"2dg19" = "فەرمی جێگیر 1 (DG19)";
+"2dg20" = "فەرمی جێگیر 2 (DG20)";
+"2dg21" = "زانیاری تایبەتی هەڵبژێردراوی (DG21)";
+
+"3read_eDL" = "eDL بخوێنەوە";
+"3data_groups" = "کۆمەڵەی زانیاری";
+"3text_data_elements" = "ئەو عەناصەرەی زانیاریی نووسراو (DG1)";
+"3dg2" = "زانیاری هەریم لایسنس (DG2)";
+"3dg3" = "زانیاری فەرمی بەرزکردنەوە (DG3)";
+"3dg4" = "وێنەی پەیام (DG4)";
+"3dg5" = "نیشانی / وێنەی نیشانی عەرەقی (DG5)";
+"3dg6" = "بایۆمێتری - زانیاری چەهرە (DG6)";
+"3dg7" = "بایۆمێتری - بەرزکردنەوەی کەف (DG7)";
+"3dg8" = "بایۆمێتری - زانیاری عێرە (DG8)";
+"3dg9" = "بایۆمێتری - یەکتر (DG9)";
+"3dg10" = "ناتەواو (DG10)";
+"3dg11" = "زانیاری هەڵبژێردراوی نووسراوی (DG11)";
+"3dg12" = "ئاگاداری نەنموون (DG12)";
+"3dg13" = "زانیاری پەیوەندیدانی فعال (DG13)";
+"3dg14" = "زانیاری EAC (DG14)";
+
+"settings" = "ڕێکخستنەکان";
+"enable" = "چالاککردن";
+"disable" = "ناچالاککردن";
+"advanced_settings" = "ڕێکخستنە پێشکەوتووەکان";
+"debug_settings" = "ڕێکخستنەکانی هەڵەچوون";
+"event_logs" = "تۆمارەکانی ڕووداو";
+"no_data_found" = "هیچ زانیاریەک نەدۆزرایەوە";
+"set_application_language" = "زمانی بەکارهێنەر دابنێ";
+"language_points" = "١. کرتە لەسەر بەردەوام بکە. پەنجەرەیەکی نوێ دەکرێتەوە.
+٢. کرتە بکە لەسەر زمان بۆ دیاریکردنی زمانی داواکردوو.";
+"language_desc" = "ئەگەر هیچ ڕێکخستنێکی زمانی بەردەست نەبوو، بڕۆ بۆ ڕێکخستنە زمانیەکانی ئامێرەکەت و زمانێکی پێشەوی دابنێ.";
+"continue" = "بەردەوام بکە";
+"cancel" = "ڕەتکردنەوە";
+"video_settings" = "ڕوونیەکانی ویدیو";
+"standard_inspection_procedure" = "پرۆسەی پشکنینی ستاندارد";
+"advance_inspection_procedure" = "پرۆسەی پشکنینی پێشکەوتوو";
+"general_inspection_procedure" = "پرۆسەی پشکنینی گشتی";
+"only_bac" = "BAC";
+"only_pace" = "PACE";
+"iso_protocol" = "پروتۆکۆلی ISO";
+"of_external_csca" = "ی CSCAی دەرەوە";
+"2006" = "Doc 9303، بڵاوکراوەی 6، 2006";
+"2014" = "LSD و پاراستنی PKI، ویرایش 2.0، 21ی گولا";
+"only_rfid" = "RFID";
+"only_authentication" = "پشتڕاستکردنەوە";
+"menu" = "مێنو";
+"choose_image" = "وێنە هەڵبژێرە";
+"camera" = "کامێرا";
+"gallery" = "گەلەری";
+

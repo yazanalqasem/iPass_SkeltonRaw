@@ -1,0 +1,441 @@
+
+/* Class = "UILabel"; text = " "; ObjectID = "0rT-MQ-fa6"; */
+"0rT-MQ-fa6.text" = " ";
+
+/* Class = "UILabel"; text = "Good illumination."; ObjectID = "1Zg-7b-5uL"; */
+"1Zg-7b-5uL.text" = "Good illumination.";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "1wp-w7-mFc"; */
+"1wp-w7-mFc.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "1wp-w7-mFc"; */
+"1wp-w7-mFc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Face SDK version"; ObjectID = "2Oz-1B-p52"; */
+"2Oz-1B-p52.text" = "Face SDK version";
+
+/* Class = "UILabel"; text = "App Review"; ObjectID = "2gF-jC-RSj"; */
+"2gF-jC-RSj.text" = "App Review";
+
+/* Class = "UILabel"; text = "Date format"; ObjectID = "2tK-2U-d34"; */
+"2tK-2U-d34.text" = "Date format";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "3MB-s8-xFW"; */
+"3MB-s8-xFW.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3MB-s8-xFW"; */
+"3MB-s8-xFW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Center your face"; ObjectID = "3gZ-jC-MVY"; */
+"3gZ-jC-MVY.text" = "Center your face";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "3pF-gA-JgI"; */
+"3pF-gA-JgI.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3pF-gA-JgI"; */
+"3pF-gA-JgI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Get ready"; ObjectID = "4Hh-TU-u8k"; */
+"4Hh-TU-u8k.text" = "Get ready";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "4rW-ZX-0Py"; */
+"4rW-ZX-0Py.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4rW-ZX-0Py"; */
+"4rW-ZX-0Py.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "5Ab-go-feo"; */
+"5Ab-go-feo.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5Ab-go-feo"; */
+"5Ab-go-feo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Failed"; ObjectID = "5hR-Em-F6U"; */
+"5hR-Em-F6U.text" = "Failed";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "7cc-is-XaI"; */
+"7cc-is-XaI.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7cc-is-XaI"; */
+"7cc-is-XaI.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Core mode"; ObjectID = "7dx-Gm-meh"; */
+"7dx-Gm-meh.text" = "Core mode";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "8OV-yt-oCX"; */
+"8OV-yt-oCX.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8OV-yt-oCX"; */
+"8OV-yt-oCX.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " "; ObjectID = "9x8-If-MIq"; */
+"9x8-If-MIq.text" = " ";
+
+/* Class = "UILabel"; text = "No accessories: glasses, mask, hat, etc."; ObjectID = "AB8-fL-cxc"; */
+"AB8-fL-cxc.text" = "No accessories: glasses, mask, hat, etc.";
+
+/* Class = "UITextView"; text = "This application allows you to read and verify data from identification documents (passports, ID cards, driver's licenses, residence permits, visas, boarding passes, etc.) and bank cards.\nPosition a document fully inside the frame, and it will be automatically detected, cropped and recognized. The document type will be detected automatically. The MRZ, visual zone and barcodes will be recognized and parsed into text fields. Graphic fields will be automatically cropped.\nData verification is performed after reading, where applicable, and overall verification status is displayed.\nAll processing is performed completely offline, no data leaves your device.\nPlease contact us if you have any questions, issues or suggestions."; ObjectID = "AEe-mo-XeE"; */
+"AEe-mo-XeE.text" = "This application allows you to read and verify data from identification documents (passports, ID cards, driver's licenses, residence permits, visas, boarding passes, etc.) and bank cards.\nPosition a document fully inside the frame, and it will be automatically detected, cropped and recognized. The document type will be detected automatically. The MRZ, visual zone and barcodes will be recognized and parsed into text fields. Graphic fields will be automatically cropped.\nData verification is performed after reading, where applicable, and overall verification status is displayed.\nAll processing is performed completely offline, no data leaves your device.\nPlease contact us if you have any questions, issues or suggestions.";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "AHX-Km-cIu"; */
+"AHX-Km-cIu.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "AHX-Km-cIu"; */
+"AHX-Km-cIu.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Camera at eye level."; ObjectID = "Aag-Yd-L1K"; */
+"Aag-Yd-L1K.text" = "Camera at eye level.";
+
+/* Class = "UILabel"; text = "fullrfid"; ObjectID = "AuG-dO-SCW"; */
+"AuG-dO-SCW.text" = "fullrfid";
+
+/* Class = "UIButton"; configuration.title = "Go"; ObjectID = "BW4-zy-W3F"; */
+"BW4-zy-W3F.configuration.title" = "Go";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BW4-zy-W3F"; */
+"BW4-zy-W3F.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "BrA-FM-RSP"; */
+"BrA-FM-RSP.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BrA-FM-RSP"; */
+"BrA-FM-RSP.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "CtC-wP-opu"; */
+"CtC-wP-opu.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CtC-wP-opu"; */
+"CtC-wP-opu.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "FEA-Hg-9AE"; */
+"FEA-Hg-9AE.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FEA-Hg-9AE"; */
+"FEA-Hg-9AE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tap a star to give your rating"; ObjectID = "FeZ-XE-3qa"; */
+"FeZ-XE-3qa.text" = "Tap a star to give your rating";
+
+/* Class = "UIButton"; configuration.title = "Dismiss"; ObjectID = "G1n-Nf-DbX"; */
+"G1n-Nf-DbX.configuration.title" = "Dismiss";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G1n-Nf-DbX"; */
+"G1n-Nf-DbX.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "I8y-I4-WId"; */
+"I8y-I4-WId.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "I8y-I4-WId"; */
+"I8y-I4-WId.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " "; ObjectID = "IHQ-SP-eG3"; */
+"IHQ-SP-eG3.text" = " ";
+
+/* Class = "UILabel"; text = "Event "; ObjectID = "IPj-cj-qm9"; */
+"IPj-cj-qm9.text" = "Event ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "ITr-7D-HPy"; */
+"ITr-7D-HPy.text" = " ";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "ImS-IH-4Xf"; */
+"ImS-IH-4Xf.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ImS-IH-4Xf"; */
+"ImS-IH-4Xf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Database version"; ObjectID = "Jve-la-46p"; */
+"Jve-la-46p.text" = "Database version";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Kze-EJ-r6v"; */
+"Kze-EJ-r6v.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Kze-EJ-r6v"; */
+"Kze-EJ-r6v.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Success"; ObjectID = "M3o-Xc-jUT"; */
+"M3o-Xc-jUT.text" = "Success";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "MAp-m9-g36"; */
+"MAp-m9-g36.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MAp-m9-g36"; */
+"MAp-m9-g36.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Set application language"; ObjectID = "MfZ-uX-DGJ"; */
+"MfZ-uX-DGJ.text" = "Set application language";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Mze-EE-dYL"; */
+"Mze-EE-dYL.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Mze-EE-dYL"; */
+"Mze-EE-dYL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Face Image "; ObjectID = "Nmc-Dt-I9e"; */
+"Nmc-Dt-I9e.text" = "Face Image ";
+
+/* Class = "UIButton"; normalTitle = "Data groups"; ObjectID = "P0q-yA-7Ce"; */
+"P0q-yA-7Ce.normalTitle" = "Data groups";
+
+/* Class = "UILabel"; text = "235680"; ObjectID = "PFV-Dv-XrA"; */
+"PFV-Dv-XrA.text" = "235680";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "PbD-33-IHs"; */
+"PbD-33-IHs.normalTitle" = "Continue";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "S21-Xt-8sG"; */
+"S21-Xt-8sG.normalTitle" = "Close";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "S8Y-so-7EW"; */
+"S8Y-so-7EW.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "S8Y-so-7EW"; */
+"S8Y-so-7EW.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Core version"; ObjectID = "SBP-Iw-z60"; */
+"SBP-Iw-z60.text" = "Core version";
+
+/* Class = "UIButton"; configuration.title = "Skip"; ObjectID = "T34-Sq-3kI"; */
+"T34-Sq-3kI.configuration.title" = "Skip";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "T34-Sq-3kI"; */
+"T34-Sq-3kI.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "TND-Q1-3q4"; */
+"TND-Q1-3q4.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TND-Q1-3q4"; */
+"TND-Q1-3q4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Debug settings"; ObjectID = "Tnn-W9-L2l"; */
+"Tnn-W9-L2l.text" = "Debug settings";
+
+/* Class = "UILabel"; text = "6.9.7953"; ObjectID = "UCm-Ti-hMC"; */
+"UCm-Ti-hMC.text" = "6.9.7953";
+
+/* Class = "UILabel"; text = " "; ObjectID = "UTV-xT-4us"; */
+"UTV-xT-4us.text" = " ";
+
+/* Class = "UILabel"; text = "1.1"; ObjectID = "UjT-xB-lCc"; */
+"UjT-xB-lCc.text" = "1.1";
+
+/* Class = "UILabel"; text = "Debug settings"; ObjectID = "Unk-iz-FgG"; */
+"Unk-iz-FgG.text" = "Debug settings";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "UpK-lN-RF4"; */
+"UpK-lN-RF4.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "There are no events logs now"; ObjectID = "UyM-bU-s5W"; */
+"UyM-bU-s5W.text" = "There are no events logs now";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "VIi-QB-FJV"; */
+"VIi-QB-FJV.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "VIi-QB-FJV"; */
+"VIi-QB-FJV.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "API version"; ObjectID = "Vn9-ch-TwF"; */
+"Vn9-ch-TwF.text" = "API version";
+
+/* Class = "UILabel"; text = "1.1"; ObjectID = "Vwz-3l-bA6"; */
+"Vwz-3l-bA6.text" = "1.1";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "XmR-KJ-m2j"; */
+"XmR-KJ-m2j.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "XmR-KJ-m2j"; */
+"XmR-KJ-m2j.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Cancel"; ObjectID = "YNd-rj-Pd2"; */
+"YNd-rj-Pd2.configuration.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "YNd-rj-Pd2"; */
+"YNd-rj-Pd2.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "5.2.1587"; ObjectID = "ZyQ-zt-fXu"; */
+"ZyQ-zt-fXu.text" = "5.2.1587";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "Zzd-nv-Tyf"; */
+"Zzd-nv-Tyf.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Zzd-nv-Tyf"; */
+"Zzd-nv-Tyf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Advanced settings"; ObjectID = "a47-6A-h6g"; */
+"a47-6A-h6g.text" = "Advanced settings";
+
+/* Class = "UILabel"; text = "Debug settings"; ObjectID = "b0u-Qj-uWu"; */
+"b0u-Qj-uWu.text" = "Debug settings";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "b31-aj-ETn"; */
+"b31-aj-ETn.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b31-aj-ETn"; */
+"b31-aj-ETn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "bd7-g0-4rt"; */
+"bd7-g0-4rt.text" = "Sound";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "blY-FY-9WQ"; */
+"blY-FY-9WQ.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "blY-FY-9WQ"; */
+"blY-FY-9WQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Event logs"; ObjectID = "cX9-ut-ZkX"; */
+"cX9-ut-ZkX.text" = "Event logs";
+
+/* Class = "UILabel"; text = "Initialization..."; ObjectID = "eiA-Fe-ZyD"; */
+"eiA-Fe-ZyD.text" = "Initialization...";
+
+/* Class = "UIButton"; configuration.title = "Submit"; ObjectID = "f2S-3V-KT6"; */
+"f2S-3V-KT6.configuration.title" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "f2S-3V-KT6"; */
+"f2S-3V-KT6.normalTitle" = "Button";
+
+/* Class = "UISegmentedControl"; fbv-Wy-0W2.segmentTitles[0] = "ePassport"; ObjectID = "fbv-Wy-0W2"; */
+"fbv-Wy-0W2.segmentTitles[0]" = "ePassport";
+
+/* Class = "UISegmentedControl"; fbv-Wy-0W2.segmentTitles[1] = "eID"; ObjectID = "fbv-Wy-0W2"; */
+"fbv-Wy-0W2.segmentTitles[1]" = "eID";
+
+/* Class = "UISegmentedControl"; fbv-Wy-0W2.segmentTitles[2] = "eDL"; ObjectID = "fbv-Wy-0W2"; */
+"fbv-Wy-0W2.segmentTitles[2]" = "eDL";
+
+/* Class = "UILabel"; text = "Selfie time!"; ObjectID = "fbw-7L-cxe"; */
+"fbw-7L-cxe.text" = "Selfie time!";
+
+/* Class = "UILabel"; text = "Full"; ObjectID = "hqV-JJ-hhq"; */
+"hqV-JJ-hhq.text" = "Full";
+
+/* Class = "UILabel"; text = " "; ObjectID = "iBK-96-yX7"; */
+"iBK-96-yX7.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "Authentication"; ObjectID = "iLU-c8-6ff"; */
+"iLU-c8-6ff.normalTitle" = "Authentication";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "iRY-rL-fjq"; */
+"iRY-rL-fjq.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iRY-rL-fjq"; */
+"iRY-rL-fjq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Rate iPass App"; ObjectID = "l3r-rm-Fpj"; */
+"l3r-rm-Fpj.text" = "Rate iPass App";
+
+/* Class = "UILabel"; text = "If no language settings are available, go to the language settings of your device and set the preferred language first."; ObjectID = "m47-gf-MMR"; */
+"m47-gf-MMR.text" = "If no language settings are available, go to the language settings of your device and set the preferred language first.";
+
+/* Class = "UILabel"; text = " "; ObjectID = "m7N-5p-qI1"; */
+"m7N-5p-qI1.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "mLi-PC-fhT"; */
+"mLi-PC-fhT.text" = " ";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "nxi-xn-8Od"; */
+"nxi-xn-8Od.text" = "Version";
+
+/* Class = "UILabel"; text = "RFID"; ObjectID = "oh5-WB-FBV"; */
+"oh5-WB-FBV.text" = "RFID";
+
+/* Class = "UILabel"; text = " "; ObjectID = "qUh-ex-cw9"; */
+"qUh-ex-cw9.text" = " ";
+
+/* Class = "UIButton"; configuration.title = "Capute Image"; ObjectID = "qk0-5N-jZa"; */
+"qk0-5N-jZa.configuration.title" = "Capute Image";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qk0-5N-jZa"; */
+"qk0-5N-jZa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Powered by iPass"; ObjectID = "qpJ-1q-rh0"; */
+"qpJ-1q-rh0.text" = "Powered by iPass";
+
+/* Class = "UILabel"; text = "Copyright © Regula Forensics Inc. 2024. All rights reserved"; ObjectID = "qvu-vn-wxf"; */
+"qvu-vn-wxf.text" = "Copyright © Regula Forensics Inc. 2024. All rights reserved";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "qxT-k1-BkY"; */
+"qxT-k1-BkY.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qxT-k1-BkY"; */
+"qxT-k1-BkY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Document list"; ObjectID = "r4d-6v-ayM"; */
+"r4d-6v-ayM.text" = "Document list";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "rAK-Fr-sfs"; */
+"rAK-Fr-sfs.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rAK-Fr-sfs"; */
+"rAK-Fr-sfs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " "; ObjectID = "rG3-XO-P1h"; */
+"rG3-XO-P1h.text" = " ";
+
+/* Class = "UILabel"; text = " "; ObjectID = "rhp-hF-BkJ"; */
+"rhp-hF-BkJ.text" = " ";
+
+/* Class = "UILabel"; text = "Place the phone on the document please"; ObjectID = "sCS-N9-6Lv"; */
+"sCS-N9-6Lv.text" = "Place the phone on the document please";
+
+/* Class = "UILabel"; text = "Image quality"; ObjectID = "sD6-e9-U6T"; */
+"sD6-e9-U6T.text" = "Image quality";
+
+/* Class = "UILabel"; text = "Processing modes"; ObjectID = "sTF-xe-jZO"; */
+"sTF-xe-jZO.text" = "Processing modes";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "sn4-HL-OW3"; */
+"sn4-HL-OW3.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sn4-HL-OW3"; */
+"sn4-HL-OW3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "uHZ-7g-HLy"; */
+"uHZ-7g-HLy.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uHZ-7g-HLy"; */
+"uHZ-7g-HLy.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "vBu-AG-tPn"; */
+"vBu-AG-tPn.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vBu-AG-tPn"; */
+"vBu-AG-tPn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "vHY-Xa-r86"; */
+"vHY-Xa-r86.text" = "Version";
+
+/* Class = "UILabel"; text = " "; ObjectID = "vLz-PB-lRX"; */
+"vLz-PB-lRX.text" = " ";
+
+/* Class = "UILabel"; text = "Video settings"; ObjectID = "veJ-HK-Xl0"; */
+"veJ-HK-Xl0.text" = "Video settings";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "wQK-t0-o3q"; */
+"wQK-t0-o3q.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wQK-t0-o3q"; */
+"wQK-t0-o3q.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " "; ObjectID = "wi1-Zd-2eQ"; */
+"wi1-Zd-2eQ.configuration.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wi1-Zd-2eQ"; */
+"wi1-Zd-2eQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " "; ObjectID = "wpg-1P-BvF"; */
+"wpg-1P-BvF.text" = " ";
+
+/* Class = "UILabel"; text = "About the app"; ObjectID = "x3B-Xn-Krv"; */
+"x3B-Xn-Krv.text" = "About the app";
+
+/* Class = "UILabel"; text = "1. Tap Continue. A new window will open.\n2. Tap Language to select the required language."; ObjectID = "xUt-zR-O9Z"; */
+"xUt-zR-O9Z.text" = "1. Tap Continue. A new window will open.\n2. Tap Language to select the required language.";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "z8i-8G-uKi"; */
+"z8i-8G-uKi.text" = "Menu";
+
+/* Class = "UILabel"; text = "Verification statuses"; ObjectID = "zgl-pt-POa"; */
+"zgl-pt-POa.text" = "Verification statuses";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "zxb-zg-WVj"; */
+"zxb-zg-WVj.text" = "Settings";

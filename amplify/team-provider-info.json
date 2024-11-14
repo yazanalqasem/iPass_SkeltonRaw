@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ipassplusios-dev-125424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::258621055876:role/amplify-ipassplusios-dev-125424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::258621055876:role/amplify-ipassplusios-dev-125424-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ipassplusios-dev-125424-deployment",
+      "UnauthRoleName": "amplify-ipassplusios-dev-125424-unauthRole",
+      "StackName": "amplify-ipassplusios-dev-125424",
+      "StackId": "arn:aws:cloudformation:us-east-1:258621055876:stack/amplify-ipassplusios-dev-125424/158ed3f0-d478-11ee-bc84-0a578ae1585b",
+      "AmplifyAppId": "d1pw6uln7d0ga8"
+    },
+    "categories": {
+      "auth": {
+        "ipassplusiosa183223d": {}
+      }
+    }
+  }
+}

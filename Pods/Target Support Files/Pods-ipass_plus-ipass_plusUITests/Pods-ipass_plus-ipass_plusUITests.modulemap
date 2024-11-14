@@ -1,0 +1,6 @@
+framework module Pods_ipass_plus_ipass_plusUITests {
+  umbrella header "Pods-ipass_plus-ipass_plusUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

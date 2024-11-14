@@ -1,0 +1,56 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ipassplusios-dev-125424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::258621055876:role/amplify-ipassplusios-dev-125424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::258621055876:role/amplify-ipassplusios-dev-125424-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ipassplusios-dev-125424-deployment",
+      "UnauthRoleName": "amplify-ipassplusios-dev-125424-unauthRole",
+      "StackName": "amplify-ipassplusios-dev-125424",
+      "StackId": "arn:aws:cloudformation:us-east-1:258621055876:stack/amplify-ipassplusios-dev-125424/158ed3f0-d478-11ee-bc84-0a578ae1585b",
+      "AmplifyAppId": "d1pw6uln7d0ga8"
+    }
+  },
+  "auth": {
+    "ipassplusiosa183223d": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-ipassplusios-dev-125424-deployment/amplify-cfn-templates/auth/ipassplusiosa183223d-cloudformation-template.json",
+        "logicalId": "authipassplusiosa183223d"
+      },
+      "lastPushTimeStamp": "2024-02-26T08:10:10.880Z",
+      "output": {
+        "UserPoolId": "us-east-1_AFs8Y3FPi",
+        "AppClientIDWeb": "706d8p9241dmmvjf4c7atsguj",
+        "AppClientID": "6sonp65aevvh7ib2nqgi0flp7q",
+        "IdentityPoolId": "us-east-1:455f26d7-c7d0-492c-803f-e653cc1b20c4",
+        "UserPoolArn": "arn:aws:cognito-idp:us-east-1:258621055876:userpool/us-east-1_AFs8Y3FPi",
+        "IdentityPoolName": "ipassplusiosa183223d_identitypool_a183223d__dev",
+        "UserPoolName": "ipassplusiosa183223d_userpool_a183223d"
+      },
+      "lastPushDirHash": "BZk3nhpskJc+RDremp1YVkrrgMc="
+    }
+  }
+}

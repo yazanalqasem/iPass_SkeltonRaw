@@ -1,0 +1,375 @@
+/*
+  Localizable.strings
+
+  
+*/
+
+
+"amplify_ui_liveness_get_ready_page_title" = "فحص الحياة";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "تحذير من حساسية الضوء";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "هذا الفحص يضيء ألوانًا مختلفة. كن حذرًا إذا كنت تعاني من حساسية الضوء.";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "معلومات حساسية الضوء";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "تحذير من حساسية الضوء";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "قد يعاني بعض الأشخاص من نوبات صرع عند التعرض لأضواء ملونة. كن حذرًا إذا كنت أنت، أو أي شخص في عائلتك، يعاني من حالة صرع.";
+"amplify_ui_liveness_get_ready_begin_check" = "ابدأ فحص الفيديو";
+
+"amplify_ui_liveness_challenge_recording_indicator_label" = "تسجيل";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "حافظ على وضع الوجه أثناء العد التنازلي.";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "حافظ على الوجه في الشكل البيضاوي للأضواء الملونة.";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "تحرك إلى الخلف";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "اقترب أكثر";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "حرك الوجه أمام الكاميرا";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "فقط وجه واحد لكل فحص";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "ابقَ ثابتًا";
+
+"amplify_ui_liveness_challenge_connecting" = "جارِ الاتصال...";
+"amplify_ui_liveness_challenge_verifying" = "جارِ التحقق";
+"amplify_ui_liveness_challenge_cancel_a11y" = "إلغاء التحدي";
+
+"amplify_ui_liveness_camera_setting_alert_title" = "غيّر إعدادات الكاميرا";
+"amplify_ui_liveness_camera_setting_alert_message" = "اسمح بإذن الكاميرا في الإعدادات.";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "تحديث الإعداد";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "ليس الآن";
+
+"amplify_ui_liveness_close_button_a11y" = "إغلاق";
+
+"amplify_ui_liveness_center_your_face_text" = "وسّط وجهك";
+"amplify_ui_liveness_camera_permission_page_title" = "فحص الحياة";
+"amplify_ui_liveness_camera_permission_button_title" = "تغيير إعداد الكاميرا";
+"amplify_ui_liveness_camera_permission_button_header" = "لا يمكن الوصول إلى الكاميرا";
+"amplify_ui_liveness_camera_permission_button_description" = "قد تحتاج إلى الذهاب إلى الإعدادات لمنح أذونات الكاميرا وإغلاق التطبيق والمحاولة مرة أخرى.";
+
+
+"amplify_ui_liveness_face_not_prepared_reason_pendingCheck" = " ";
+"amplify_ui_liveness_face_not_prepared_reason_not_in_oval" = "حرك الوجه ليتناسب مع الشكل البيضاوي";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_closer" = "اقترب أكثر";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_right" = "حرك الوجه إلى اليمين";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_left" = "حرك الوجه إلى اليسار";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_dimmer_area" = "انتقل إلى منطقة أكثر ظلامًا";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_brighter_area" = "انتقل إلى منطقة أكثر إضاءة";
+"amplify_ui_liveness_face_not_prepared_reason_no_face" = "حرك الوجه أمام الكاميرا";
+"amplify_ui_liveness_face_not_prepared_reason_multiple_faces" = "فقط وجه واحد لكل فحص";
+"amplify_ui_liveness_face_not_prepared_reason_face_too_close" = "حرك الوجه بعيدًا";
+
+
+
+
+"full_process_title" = "المعالجة الكاملة";
+"full_process_desc" = "سيناريو المعالجة للحصول على جميع بيانات المستند.";
+
+"bank_card_title" = "بطاقة البنك";
+"bank_card_desc" = "سيناريو المعالجة للحصول على بيانات بطاقة البنك.";
+
+"mrz_title" = "منطقة قابلة للقراءة آليًا";
+"mrz_desc" = "سيناريو المعالجة للحصول على بيانات MRZ.";
+
+"id_spoffing_title" = "انتحال الهوية";
+"id_spoffing_desc" = "يتضمن تزوير أو تغيير تفاصيل التعريف في المستند.";
+
+"passive_liveness_title" = "التحقق السلبي من الحيوية";
+"passive_liveness_desc" = "التحقق السلبي من الحيوية هو تقنية أمنية للتحقق من أصالة المستخدم.";
+
+"face_matching_title" = "مطابقة الوجه";
+"face_matching_desc" = "في هذه العملية، نقارن بين صورتين للوجه لتحديد ما إذا كانتا تعودان لنفس الشخص.";
+
+
+
+"age" = "العمر";
+"dismiss" = "تجاهل";
+"portrait_comparison" = "مقارنة الصورة الشخصية";
+"portrait_vs_camera" = "الصورة الشخصية مقابل صورة الكاميرا";
+"liveness_score" = "درجة التحقق من الحياة:";
+"face_matching_score" = "درجة مطابقة الوجه:";
+"biometric_verification" = "التحقق البيومتري";
+"face_matching" = "مطابقة الوجه";
+"liveness_check" = "التحقق من الحياة";
+"document_verification" = "التحقق من المستند";
+"optical" = "بصري";
+"document_type" = "نوع المستند";
+"text_fields" = "حقول النصوص";
+"image_quality" = "جودة الصورة";
+"authenticity" = "الأصالة";
+"rfid_chip" = "شريحة RFID";
+"bac" = "التحكم في الوصول الأساسي";
+"pace" = "إقامة اتصال مصدق بكلمة مرور";
+"ca" = "مصادقة الشريحة";
+"ta" = "مصادقة الطرفية";
+"aa" = "المصادقة النشطة";
+"pa" = "المصادقة السلبية";
+"metadata" = "البيانات الوصفية";
+"optical_processing" = "المعالجة البصرية";
+"rfid_chip_processing" = "معالجة شريحة RFID";
+"selfie_time" = "وقت الصورة الشخصية!";
+"get_ready" = "استعد";
+"good_illumination" = "إضاءة جيدة.";
+"no_accessories" = "بدون إكسسوارات: نظارات، قناع، قبعة، إلخ.";
+"camera_at_eye" = "الكاميرا على مستوى العين.";
+"go" = "ابدأابدأ";
+"powered_by" = "بدعم من iPass";
+"passive_liveness" = "تحقق الحياة السلبي";
+"liveness_confidence" = "مستوى الثقة في الحياة";
+"liveness_status" = "حالة التحقق من الحياة";
+"rejected" = "مرفوض";
+"passed" = "ناجح";
+"warning" = "تحذير";
+"front" = "الأمام";
+"back" = "الخلف";
+"origin" = "الأصل";
+"reasons" = "الأسباب";
+"liveness" = "التحقق من الحياة";
+"image_pattern" = "نمط الصورة";
+"barcode_format" = "تنسيق الرمز الشريطي";
+"photo_embedding" = "تضمين الصورة";
+"ipi" = "ipi";
+"colorness" = "التلوّن";
+"focus" = "تركيز";
+"glares" = "تألقات";
+"potrait" = "صورة";
+"bounds" = "حدود";
+"angle" = "زاوية المنظور";
+"resolution" = "دقة";
+
+"general" = "عام";
+"settings" = "الإعدادات";
+"verification_statuses" = "حالات التحقق";
+"about_app" = "حول التطبيق";
+"review_the_app" = "راجع التطبيق";
+"share_the_app" = "شارك التطبيق";
+"get_in_touch" = "تواصل معنا";
+"contact_us" = "اتصل بنا";
+"help_center" = "مركز المساعدة";
+"learn_more" = "اعرف المزيد";
+"visit_website" = "زيارة موقعنا";
+"view_on_store" = "عرض في متجر التطبيقات";
+"legal" = "قانوني";
+"privacy_policy" = "سياسة الخصوصية";
+
+"about_us" = "
+        يتيح لك هذا التطبيق قراءة والتحقق من البيانات الموجودة في وثائق الهوية (جوازات السفر، بطاقات الهوية، رخص القيادة، تصاريح الإقامة، التأشيرات، بطاقات الصعود إلى الطائرة، إلخ.) وبطاقات البنوك.
+ 
+        ضع الوثيقة بالكامل داخل الإطار، وسيتم اكتشافها وقصها والتعرف عليها تلقائيًا. سيتم تحديد نوع الوثيقة تلقائيًا. سيتم التعرف على المنطقة المرئية، منطقة الـ MRZ، والرموز الشريطية وتحويلها إلى حقول نصية. سيتم اقتصاص الحقول الرسومية تلقائيًا.
+ 
+        يتم إجراء التحقق من البيانات بعد قراءتها، حيثما ينطبق ذلك، وسيتم عرض حالة التحقق العامة.
+ 
+        يتم إجراء جميع المعالجات بالكامل دون الاتصال بالإنترنت، ولا يتم نقل أي بيانات من جهازك.
+ 
+        يرجى الاتصال بنا إذا كان لديك أي أسئلة أو مشاكل أو اقتراحات.
+";
+
+"verification_statuses" = "حالات التحقق";
+"success" = "نجاح";
+"failed" = "فشل";
+"id_document_verification" = "التحقق من وثيقة الهوية";
+"id_document_expiration" = "التحقق من انتهاء صلاحية وثيقة الهوية";
+"face_comparison" = "مقارنة الوجه (يقارن صور الوجوه ويحدد ما إذا كانت متطابقة)";
+"liveness_check_str" = "التحقق من الحيوية (يتحقق مما إذا كان الوجه المعروض على الجهاز المحمول ينتمي إلى إنسان حي)";
+
+
+"identity_verification" = "التحقق من الهوية";
+"scanning_settings" = "إعدادات المسح";
+"sound_vibration" = "الصوت والاهتزاز";
+"instructions" = "التعليمات";
+"multipage_processing" = "معالجة متعددة الصفحات";
+"double_page" = "معالجة الصفحتين المتقابلتين";
+"rfid_chip_processing" = "معالجة شريحة RFID";
+"sound" = "الصوت";
+"vibration" = "الاهتزاز";
+"show_instructions" = "إظهار التعليمات";
+"advanced" = "متقدم";
+"reset_all_settings" = "إعادة ضبط جميع الإعدادات";
+"portrait_with_selfie" = "مقارنة الصورة الشخصية من الوثيقة مع السيلفي";
+"multipage_processing_desc" = "تمكين معالجة الوثائق متعددة الصفحات";
+"double_page_desc" = "تمكين معالجة الصفحتين المتقابلتين من الوثيقة";
+"rfid_chip_processing_desc" = "ابدأ قراءة شريحة RFID بمجرد اكتمال معالجة الوثيقة";
+"sound_desc" = "أصدر صوتًا عند انتهاء المعالجة";
+"vibration_desc" = "اهتز عند انتهاء المعالجة";
+"show_identity_desc" = "إظهار تعليمات مسح وثيقة الهوية";
+"interface_settings" = "إعدادات الواجهة";
+"debug" = "تصحيح الأخطاء";
+"capture_button" = "زر الالتقاط";
+"camera_switch" = "زر تبديل الكاميرا";
+"hint_messages" = "رسائل التلميح";
+"help" = "المساعدة";
+"language" = "اللغة";
+"timeout" = "نفاد الوقت";
+"timeout_detection" = "نفاد الوقت بدءًا من اكتشاف الوثيقة";
+"timeout_identification" = "نفاد الوقت بدءًا من تحديد نوع الوثيقة";
+"motion_detection" = "اكتشاف الحركة";
+"focusing_detection" = "اكتشاف التركيز";
+"processing_modes" = "أنماط المعالجة";
+"camera_resolution" = "دقة الكاميرا";
+"adiust_zoom" = "تعديل مستوى التكبير";
+"zoom_level" = "مستوى التكبير";
+"manual_crop" = "القص اليدوي";
+"minimum_dpi" = "أدنى DPI";
+"perspective_angle" = "زاوية المنظور";
+"integral_image" = "الصورة المتكاملة";
+"hologram_detection" = "اكتشاف الهولوغرام";
+"image_quality" = "جودة الصورة";
+"date_format" = "تنسيق التاريخ";
+"document_filter" = "فلتر الوثيقة";
+"custom_parameters" = "المعلمات المخصصة";
+
+"button_for_capturing" = "عرض زر لالتقاط ومعالجة إطار واحد";
+"button_for_switching" = "عرض زر للتبديل بين الكاميرات أثناء المعالجة";
+"hints_during_video" = "عرض تلميحات أثناء معالجة الفيديو";
+"instructional_animation" = "عرض رسوم متحركة تعليمية عند بدء المسح";
+"application_language" = "تعيين لغة التطبيق";
+"pause_scanning" = "إيقاف المسح إذا تم الكشف عن حركة كبيرة للهاتف";
+"camera_is_focusing" = "إيقاف المسح أثناء تركيز الكاميرا. قد يؤدي ذلك إلى تقليل سرعة معالجة الكاميرا";
+"select_date_format" = "حدد تنسيق التاريخ للنتائج";
+
+"sound_settings" = "إعدادات الصوت";
+"select_sound" = "الصوت المحدد";
+"sound_enabled" = "تم تفعيل الصوت";
+"beep1" = "بيب1";
+"beep2" = "بيب2";
+"beep3" = "بيب3";
+"beep4" = "بيب4";
+"beep5" = "بيب5";
+
+"save_event_logs" = "حفظ سجلات الأحداث";
+"save_images" = "حفظ الصور";
+"save_cropped_images" = "حفظ الصور المقطوعة";
+"save_rfid_session" = "حفظ جلسة RFID";
+"report_event_logs" = "تقرير سجلات الأحداث";
+"show_metadata" = "عرض البيانات الوصفية";
+"save_event_logs_desc" = "حفظ سجلات الأحداث على الجهاز";
+"save_images_desc" = "حفظ الصور (لوظيفة التصحيح)";
+"save_cropped_images_desc" = "حفظ الصور المقطوعة (لوظيفة التصحيح)";
+"save_rfid_session_desc" = "حفظ جلسة RFID على الجهاز (لأغراض التصحيح)";
+"auto" = "تلقائي";
+"video_processing" = "معالجة الفيديو";
+"frame_processing" = "معالجة الإطار";
+"photo" = "صورة";
+"high" = "عالي";
+"medium" = "متوسط";
+"low" = "منخفض";
+"352_288" = "352×288";
+"640_480" = "640×480";
+"iframe960_540" = "iFrame960×540";
+"iframe1280_720" = "iFrame1280×720";
+"1280_720" = "1280×720";
+"1920_1080" = "1920×1080";
+"3840_2160" = "3840×2160";
+
+"glares" = "توهجات";
+"focus" = "تركيز";
+"color" = "لون";
+"dpi_threshold" = "عتبة DPI";
+"angle_threshold" = "عتبة الزاوية";
+"document_position" = "موضع الوثيقة: تداخل";
+"minimum_indent_from" = "الحد الأدنى من التداخل من زوايا الوثيقة إلى حدود الصورة";
+
+"default" = "افتراضي";
+"dd/mm/yyyy" = "يوم/شهر/سنة";
+"mm/dd/yyyy" = "شهر/يوم/سنة";
+"dd-mm-yyyy" = "يوم-شهر-سنة";
+"mm-dd-yyyy" = "شهر-يوم-سنة";
+"dd/mm/yy" = "يوم/شهر/سنة (س)";
+
+
+"procedure_type" = "نوع إجراء المصادقة";
+"messaging_procedure" = "إجراء رسائل الأمان الأساسية";
+"access_key" = "مفتاح الوصول إلى البيانات";
+"keys_value" = "قيمة مفاتيح الوصول إلى البيانات";
+"ds_certificates" = "أولوية استخدام شهادات DS";
+"csca_certificates" = "استخدام شهادات CSCA الخارجية";
+"pkd_certificates" = "ثقة شهادات PKD";
+"passive_aAuthentication" = "المصادقة السلبية (PA)";
+"aa_after_ca" = "لا تقم بتنفيذ AA بعد CA";
+"profiler_type" = "نوع المحلل";
+"strict_iso" = "بروتوكول ISO الصارم";
+
+"read_passport" = "قراءة جواز السفر";
+"machine_readable_zone" = "المنطقة القابلة للقراءة آلياً (DG1)";
+"facial_data" = "البيانات الوجهية (DG2)";
+"fingerprints" = "بصمات الأصابع (DG3)";
+"iris_data" = "بيانات القزحية (DG4)";
+"portrait_dg5" = "صورة (DG5)";
+"dg6" = "غير محدد (DG6)";
+"dg7" = "صورة التوقيع / العلامة المعتادة (DG7)";
+"dg8" = "غير محدد (DG8)";
+"dg9" = "غير محدد (DG9)";
+"dg10" = "غير محدد (DG10)";
+"de11" = "تفاصيل شخصية إضافية (De11)";
+"dg12" = "تفاصيل وثيقة إضافية (DG12)";
+"dg13" = "تفاصيل اختيارية (DG13)";
+"dg14" = "معلومات EAC (DG14)";
+"dg15" = "معلومات المصادقة النشطة (DG15)";
+"dg16" = "الشخص (الأشخاص) للإخطار (DG16)";
+
+"Read_elD" = "قراءة elD";
+"data_groups" = "مجموعات البيانات";
+"document_type_dg1" = "نوع الوثيقة (DG1)";
+"issuing_state_dg2" = "الدولة المصدرة (DG2)";
+"date_of_expiry_dg3" = "تاريخ انتهاء الصلاحية (DG3)";
+"given_name_dg4" = "الاسم الأول (DG4)";
+"family_name_dg5" = "اسم العائلة (DG5)";
+"pseudonym" = "اسم مستعار (DG6)";
+"academic_title" = "اللقب الأكاديمي (DG7)";
+"date_of_birthdg8" = "تاريخ الميلاد (DG8)";
+"place_of_birth_dg9" = "مكان الميلاد (DG9)";
+"2dg10" = "الجنسية (DG10)";
+"2dg11" = "الجنس (DG11)";
+"2dg12" = "تفاصيل اختيارية (DG12)";
+"2dg13" = "غير محدد (DG13)";
+"2dg14" = "غير محدد (DG14)";
+"2dg15" = "غير محدد (DG15)";
+"2dg16" = "غير محدد (DG16)";
+"2dg17" = "مكان التسجيل (DG17)";
+"2dg18" = "مكان التسجيل (DG18)";
+"2dg19" = "تصريح الإقامة 1 (DG19)";
+"2dg20" = "تصريح الإقامة 2 (DG20)";
+"2dg21" = "تفاصيل اختيارية (DG21)";
+
+"3read_eDL" = "قراءة eDL";
+"3data_groups" = "مجموعات البيانات";
+"3text_data_elements" = "عناصر البيانات النصية (DG1)";
+"3dg2" = "معلومات حامل الرخصة (DG2)";
+"3dg3" = "تفاصيل السلطة المصدرة (DG3)";
+"3dg4" = "صورة البورتريه (DG4)";
+"3dg5" = "صورة التوقيع / العلامة المعتادة (DG5)";
+"3dg6" = "بيومترية - البيانات الوجهية (DG6)";
+"3dg7" = "بيومترية - بصمة الإصبع (DG7)";
+"3dg8" = "بيومترية - بيانات القزحية (DG8)";
+"3dg9" = "بيومترية - أخرى (DG9)";
+"3dg10" = "غير محدد (DG10)";
+"3dg11" = "بيانات محلية اختيارية (DG11)";
+"3dg12" = "تنبيه عدم المطابقة (DG12)";
+"3dg13" = "معلومات المصادقة النشطة (DG13)";
+"3dg14" = "معلومات EAC (DG14)";
+
+
+"settings" = "الإعدادات";
+"enable" = "تمكين";
+"disable" = "تعطيل";
+"advanced_settings" = "الإعدادات المتقدمة";
+"debug_settings" = "إعدادات التصحيح";
+"event_logs" = "سجلات الأحداث";
+"no_data_found" = "لم يتم العثور على بيانات";
+"set_application_language" = "ضبط لغة التطبيق";
+"language_points" = "١. اضغط متابعة. سيتم فتح نافذة جديدة.
+٢. اضغط على اللغة لاختيار اللغة المطلوبة.";
+"language_desc" = "إذا لم تكن إعدادات اللغة متاحة، انتقل إلى إعدادات اللغة في جهازك واضبط اللغة المفضلة أولاً.";
+"continue" = "متابعة";
+"cancel" = "إلغاء";
+"video_settings" = "إعدادات الفيديو";
+"standard_inspection_procedure" = "إجراءات الفحص القياسية";
+"advance_inspection_procedure" = "إجراءات الفحص المتقدمة";
+"general_inspection_procedure" = "إجراءات الفحص العامة";
+"only_bac" = "BAC";
+"only_pace" = "PACE";
+"iso_protocol" = "بروتوكول ISO";
+"of_external_csca" = "من CSCA الخارجية";
+"2006" = "Doc 9303، الطبعة السادسة، 2006";
+"2014" = "LSD وصيانة PKI، الإصدار 2.0، 21 مايو 2014";
+"only_rfid" = "RFID";
+"only_authentication" = "المصادقة";
+
+
+"menu" = "القائمة";
+"choose_image" = "اختر صورة";
+"camera" = "الكاميرا";
+"gallery" = "المعرض";
+

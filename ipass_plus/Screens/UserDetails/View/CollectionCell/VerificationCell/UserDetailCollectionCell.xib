@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22155" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22131"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="UserDetailCollectionCell" id="gTV-IL-0wX" customClass="UserDetailCollectionCell" customModule="ipass_plus" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="310" height="483"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="310" height="483"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Flp-Jd-JgC">
+                        <rect key="frame" x="0.0" y="0.0" width="310" height="483"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="hE6-AY-iIG">
+                                <rect key="frame" x="0.0" y="0.0" width="310" height="483"/>
+                                <subviews>
+                                    <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" translatesAutoresizingMaskIntoConstraints="NO" id="lJp-qf-VKG">
+                                        <rect key="frame" x="0.0" y="0.0" width="310" height="483"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                    </tableView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="lJp-qf-VKG" firstAttribute="leading" secondItem="hE6-AY-iIG" secondAttribute="leading" id="85c-Fb-BI4"/>
+                                    <constraint firstItem="lJp-qf-VKG" firstAttribute="top" secondItem="hE6-AY-iIG" secondAttribute="top" id="HfZ-yD-kDv"/>
+                                    <constraint firstAttribute="bottom" secondItem="lJp-qf-VKG" secondAttribute="bottom" id="hlr-ZA-pJG"/>
+                                    <constraint firstAttribute="trailing" secondItem="lJp-qf-VKG" secondAttribute="trailing" id="nuN-mJ-Esd"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="hE6-AY-iIG" firstAttribute="leading" secondItem="Flp-Jd-JgC" secondAttribute="leading" id="1Ge-sI-1F4"/>
+                            <constraint firstAttribute="bottom" secondItem="hE6-AY-iIG" secondAttribute="bottom" id="1jl-8P-8Py"/>
+                            <constraint firstItem="hE6-AY-iIG" firstAttribute="top" secondItem="Flp-Jd-JgC" secondAttribute="top" id="9L9-oP-blg"/>
+                            <constraint firstAttribute="trailing" secondItem="hE6-AY-iIG" secondAttribute="trailing" id="PgX-QZ-kpq"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="Flp-Jd-JgC" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="1rc-lI-13V"/>
+                <constraint firstAttribute="bottom" secondItem="Flp-Jd-JgC" secondAttribute="bottom" id="HFt-Ul-uai"/>
+                <constraint firstItem="Flp-Jd-JgC" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="gX7-J5-zon"/>
+                <constraint firstAttribute="trailing" secondItem="Flp-Jd-JgC" secondAttribute="trailing" id="ite-SG-fbm"/>
+            </constraints>
+            <size key="customSize" width="310" height="483"/>
+            <connections>
+                <outlet property="userInfoTableVw" destination="lJp-qf-VKG" id="KOp-BB-n5t"/>
+            </connections>
+            <point key="canvasLocation" x="189.31297709923663" y="80.633802816901408"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

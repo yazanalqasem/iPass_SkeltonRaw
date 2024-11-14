@@ -1,0 +1,383 @@
+/*
+  Localizable.strings
+
+  
+*/
+
+
+"amplify_ui_liveness_get_ready_page_title" = "Canlılık Kontrolü";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "Fotoğraf Hassasiyeti Uyarısı";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "Bu kontrol farklı renklerle
+flaş yapar. Fotosensitifseniz dikkatli olun.";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "Fotosensitivite Bilgisi";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "Fotoğraf Hassasiyeti
+Uyarısı";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "Bazı insanlar
+renkli ışıklara maruz kaldıklarında epileptik nöbetler geçirebilir. Sizin veya ailenizden
+herhangi biri epilepsi durumunda dikkatli olun.";
+"amplify_ui_liveness_get_ready_begin_check" = "Video kontrolünü başlat";
+"amplify_ui_liveness_challenge_recording_indicator_label" = "KAYIT";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "Geri sayım
+sırasında yüz pozisyonunu sabit tutun.";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "Renkli ışıklar
+için ovalde yüzü sabit tutun.";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "Geri git";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "Daha yaklaş";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "Yüzü
+kameranın önüne getir";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "Her kontrolde
+yalnızca bir yüz";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "Hareketsiz dur";
+"amplify_ui_liveness_challenge_connecting" = "Bağlanıyor...";
+"amplify_ui_liveness_challenge_verifying" = "Doğrulanıyor...";
+"amplify_ui_liveness_challenge_cancel_a11y" = "Mücadeleyi İptal Et";
+"amplify_ui_liveness_camera_setting_alert_title" = "Kamera Ayarlarınızı Değiştirin";
+"amplify_ui_liveness_camera_setting_alert_message" = "Ayarlar bölümünde kamera izni
+verin.";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "Ayarları
+Güncelle";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "Şimdi Değil";
+"amplify_ui_liveness_close_button_a11y" = "Kapat";
+"amplify_ui_liveness_center_your_face_text" = "Yüzünüzü Merkezleyin";
+"amplify_ui_liveness_camera_permission_page_title" = "Canlılık Kontrolü";
+"amplify_ui_liveness_camera_permission_button_title" = "Kamera Ayarlarını Değiştir";
+"amplify_ui_liveness_camera_permission_button_header" = "Kameraya erişilemiyor";
+"amplify_ui_liveness_camera_permission_button_description" = "Kamera izinlerini vermek
+için ayarlara girmeniz ve uygulamayı kapatıp tekrar denemeniz gerekebilir.";
+"amplify_ui_liveness_face_not_prepared_reason_pendingCheck" = " ";
+"amplify_ui_liveness_face_not_prepared_reason_not_in_oval" = "Yüzü ova şekline
+sığdırın";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_closer" = "Daha yaklaş";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_right" = "Yüzü sağa hareket
+ettir";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_left" = "Yüzü sola hareket
+ettir";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_dimmer_area" = "Daha karanlık
+bir alana gidin";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_brighter_area" = "Daha parlak
+bir alana gidin";
+"amplify_ui_liveness_face_not_prepared_reason_no_face" = "Yüzü kameranın önüne
+getirin";
+"amplify_ui_liveness_face_not_prepared_reason_multiple_faces" = "Her kontrolde
+yalnızca bir yüz";
+"amplify_ui_liveness_face_not_prepared_reason_face_too_close" = "Yüzü daha uzağa
+götürün";
+
+
+"full_process_title" = "Tam İşleme";
+"full_process_desc" = "Tüm belge verilerinin elde edilmesi için işleme senaryosu.";
+
+"bank_card_title" = "Banka Kartı";
+"bank_card_desc" = "Banka kartı verilerinin elde edilmesi için işleme senaryosu.";
+
+"mrz_title" = "MRZ";
+"mrz_desc" = "MRZ verilerinin elde edilmesi için işleme senaryosu.";
+
+"id_spoffing_title" = "Kimlik Sahteciliği";
+"id_spoffing_desc" = "Bir belgenin kimlik bilgilerini değiştirmeyi veya sahtecilik yapmayı içerir.";
+
+"passive_liveness_title" = "Pasif Canlılık";
+"passive_liveness_desc" = "Pasif canlılık, bir kullanıcının gerçekliğini doğrulayan bir güvenlik tekniğidir.";
+
+"face_matching_title" = "Yüz Eşleştirme";
+"face_matching_desc" = "Bu süreçte, iki yüz görüntüsünü karşılaştırarak aynı kişiye ait olup olmadıklarını belirliyoruz.";
+
+"age" = "Yaş";
+"dismiss" = "Kapat";
+"portrait_comparison" = "Portre Karşılaştırması";
+"portrait_vs_camera" = "Portre vs Kamera görüntüsü";
+"liveness_score" = "Canlılık Skoru:";
+"face_matching_score" = "Yüz Eşleştirme Skoru:";
+"biometric_verification" = "Biyometrik Doğrulama";
+"face_matching" = "Yüz Eşleştirme";
+"liveness_check" = "Canlılık Kontrolü";
+"document_verification" = "Belge Doğrulama";
+"optical" = "Optik";
+"document_type" = "Belge Türü";
+"text_fields" = "Metin Alanları";
+"image_quality" = "Görüntü Kalitesi";
+"authenticity" = "Özgünlük";
+"rfid_chip" = "RFID Çipi";
+"bac" = "Temel Erişim Kontrolü";
+"pace" = "Parola ile Kimlik Doğrulamalı Bağlantı Kurulumu";
+"ca" = "Çip Doğrulama";
+"ta" = "Terminal Doğrulama";
+"aa" = "Aktif Doğrulama";
+"pa" = "Pasif Doğrulama";
+"metadata" = "Meta Veriler";
+"optical_processing" = "Optik İşleme";
+"rfid_chip_processing" = "RFID Çipi İşleme";
+"selfie_time" = "Selfie Zamanı!";
+"get_ready" = "Hazır Olun";
+"good_illumination" = "İyi aydınlatma.";
+"no_accessories" = "Aksesuar yok: gözlük, maske, şapka, vb.";
+"camera_at_eye" = "Kamera göz hizasında.";
+"go" = "Başla";
+"powered_by" = "iPass tarafından desteklenmektedir";
+"passive_liveness" = "Pasif Canlılık";
+"liveness_confidence" = "Canlılık Güven Düzeyi";
+"liveness_status" = "Canlılık Durumu";
+"rejected" = "Reddedildi";
+"passed" = "Başarılı";
+"warning" = "Uyarı";
+"front" = "Ön";
+"back" = "Arka";
+"origin" = "Köken";
+"reasons" = "Nedenler";
+"liveness" = "Canlılık";
+"image_pattern" = "Görüntü Deseni";
+"barcode_format" = "Barkod Formatı";
+"photo_embedding" = "Fotoğraf Gömme";
+"ipi" = "ipi";
+"colorness" = "Renk Düzeyi";
+"focus" = "Odak";
+"glares" = "Parlaklık";
+"potrait" = "Portre";
+"bounds" = "Sınırlar";
+"angle" = "Açı";
+"resolution" = "Çözünürlük";
+
+"general" = "Genel";
+"settings" = "Ayarlar";
+"verification_statuses" = "Doğrulama Durumları";
+"about_app" = "Uygulama Hakkında";
+"review_the_app" = "Uygulamayı İncele";
+"share_the_app" = "Uygulamayı Paylaş";
+"get_in_touch" = "İletişime Geç";
+"contact_us" = "Bize Ulaşın";
+"help_center" = "Yardım Merkezi";
+"learn_more" = "Daha Fazla Bilgi Edinin";
+"visit_website" = "Web Sitemizi Ziyaret Edin";
+"view_on_store" = "App Store'da Görüntüle";
+"legal" = "Yasal";
+"privacy_policy" = "Gizlilik Politikası";
+
+
+"about_us" = "
+        Bu uygulama, kimlik belgelerinden (pasaportlar, kimlik kartları, ehliyetler, oturma izinleri, vizeler, biniş kartları vb.) ve banka kartlarından veri okumanıza ve doğrulamanıza olanak tanır.
+ 
+        Bir belgeyi çerçevenin içine tamamen yerleştirin, otomatik olarak tespit edilecek, kırpılacak ve tanınacaktır. Belge türü otomatik olarak algılanacaktır. MRZ, görsel alan ve barkodlar tanınacak ve metin alanlarına dönüştürülecektir. Grafik alanlar otomatik olarak kırpılacaktır.
+ 
+        Veri doğrulaması okunduktan sonra, uygulanabilir olduğunda yapılır ve genel doğrulama durumu görüntülenir.
+ 
+        Tüm işlemler tamamen çevrimdışı olarak gerçekleştirilir, hiçbir veri cihazınızdan ayrılmaz.
+ 
+        Herhangi bir sorunuz, probleminiz veya öneriniz varsa lütfen bizimle iletişime geçin.
+";
+
+"verification_statuses" = "Doğrulama durumları";
+"success" = "Başarı";
+"failed" = "Başarısız";
+"id_document_verification" = "Kimlik belgesi doğrulaması";
+"id_document_expiration" = "Kimlik belgesi son kullanma tarihi kontrolü";
+"face_comparison" = "Yüz karşılaştırması (yüz görüntülerini karşılaştırır ve eşleşip eşleşmediğini belirler)";
+"liveness_check_str" = "Canlılık kontrolü (bir mobil cihaza sunulan yüzün yaşayan bir insana ait olduğunu doğrular)";
+
+
+"identity_verification" = "KİMLİK DOĞRULAMA";
+"scanning_settings" = "TARAMA AYARLARI";
+"sound_vibration" = "SES VE TİTREŞİM";
+"instructions" = "TALİMATLAR";
+"multipage_processing" = "Çok sayfalı işlem";
+"double_page" = "Çift sayfa işleme";
+"rfid_chip_processing" = "RFID çip işleme";
+"sound" = "Ses";
+"vibration" = "Titreşim";
+"show_instructions" = "Talimatları göster";
+"advanced" = "Gelişmiş";
+"reset_all_settings" = "Tüm ayarları sıfırla";
+"portrait_with_selfie" = "Belgedeki portreyi selfie ile karşılaştırın";
+"multipage_processing_desc" = "Çok sayfalı belge işlemeyi etkinleştir";
+"double_page_desc" = "Çift sayfalı belge işlemeyi etkinleştir";
+"rfid_chip_processing_desc" = "Belge işleme tamamlandığında RFID çip okumasını başlat";
+"sound_desc" = "İşleme bittiğinde ses çıkar";
+"vibration_desc" = "İşleme bittiğinde titreşim yap";
+"show_identity_desc" = "Kimlik belgesi tarama talimatlarını göster";
+"interface_settings" = "ARAYÜZ AYARLARI";
+"debug" = "Hata Ayıklama";
+"capture_button" = "Çekim Butonu";
+"camera_switch" = "Kamera Değiştirme Butonu";
+"hint_messages" = "İpucu mesajları";
+"help" = "Yardım";
+"language" = "Dil";
+"timeout" = "Zaman Aşımı";
+"timeout_detection" = "Belge algılamasından itibaren zaman aşımı";
+"timeout_identification" = "Belge türü tanımlamasından itibaren zaman aşımı";
+"motion_detection" = "Hareket algılama";
+"focusing_detection" = "Odak algılama";
+"processing_modes" = "İşlem modları";
+"camera_resolution" = "Kamera çözünürlüğü";
+"adiust_zoom" = "Yakınlaştırma seviyesini ayarla";
+"zoom_level" = "Yakınlaştırma seviyesi";
+"manual_crop" = "Manuel kırpma";
+"minimum_dpi" = "Minimum DPI";
+"perspective_angle" = "Bakış açısı";
+"integral_image" = "Bütünsel görüntü";
+"hologram_detection" = "Hologram algılama";
+"image_quality" = "Görüntü kalitesi";
+"date_format" = "Tarih formatı";
+"document_filter" = "Belge filtresi";
+"custom_parameters" = "Özel parametreler";
+
+"button_for_capturing" = "Tek bir kareyi yakalamak ve işlemek için bir düğme göster";
+"button_for_switching" = "İşleme sırasında kameralar arasında geçiş yapmak için bir düğme göster";
+"hints_during_video" = "Video işleme sırasında ipuçları göster";
+"instructional_animation" = "Tarama başladığında bir öğretici animasyon göster";
+"application_language" = "Uygulama dilini ayarla";
+"pause_scanning" = "Önemli bir telefon hareketi tespit edildiğinde taramayı duraklat";
+"camera_is_focusing" = "Kamera odaklanırken taramayı duraklat. Bu, kameranın işleme hızını azaltabilir";
+"select_date_format" = "Sonuçlar için tarih formatını seç";
+
+
+"sound_settings" = "SES AYARLARI";
+"select_sound" = "SEÇİLEN SES";
+"sound_enabled" = "Ses etkinleştirildi";
+"beep1" = "Bip1";
+"beep2" = "Bip2";
+"beep3" = "Bip3";
+"beep4" = "Bip4";
+"beep5" = "Bip5";
+
+"save_event_logs" = "Olay günlüklerini kaydet";
+"save_images" = "Görüntüleri kaydet";
+"save_cropped_images" = "Kırpılmış görüntüleri kaydet";
+"save_rfid_session" = "RFID oturumunu kaydet";
+"report_event_logs" = "Olay günlüklerini raporla";
+"show_metadata" = "Meta verileri göster";
+"save_event_logs_desc" = "Olay günlüklerini cihaza kaydet";
+"save_images_desc" = "Görüntüleri kaydet (hata ayıklama işlevi için)";
+"save_cropped_images_desc" = "Kırpılmış görüntüleri kaydet (hata ayıklama işlevi için)";
+"save_rfid_session_desc" = "RFID oturumunu cihaza kaydet (hata ayıklama için)";
+"auto" = "Otomatik";
+"video_processing" = "Video işleme";
+"frame_processing" = "Kare işleme";
+"photo" = "Fotoğraf";
+"high" = "Yüksek";
+"medium" = "Orta";
+"low" = "Düşük";
+"352_288" = "352×288";
+"640_480" = "640×480";
+"iframe960_540" = "iFrame960×540";
+"iframe1280_720" = "iFrame1280×720";
+"1280_720" = "1280×720";
+"1920_1080" = "1920×1080";
+"3840_2160" = "3840×2160";
+
+"glares" = "Parlamalar";
+"focus" = "Odak";
+"color" = "Renk";
+"dpi_threshold" = "DPI eşiği";
+"angle_threshold" = "Açı eşiği";
+"document_position" = "Belge konumu: Girinti";
+"minimum_indent_from" = "Belgenin köşelerinden görüntünün kenarlarına kadar olan minimum girinti";
+
+"default" = "Varsayılan";
+"dd/mm/yyyy" = "gg/aa/yyyy";
+"mm/dd/yyyy" = "aa/gg/yyyy";
+"dd-mm-yyyy" = "gg-aa-yyyy";
+"mm-dd-yyyy" = "aa-gg-yyyy";
+"dd/mm/yy" = "gg/aa/yy";
+
+
+"procedure_type" = "Kimlik doğrulama prosedürü türü";
+"messaging_procedure" = "Temel güvenlik mesajlaşma prosedürü";
+"access_key" = "Veri erişim anahtarı";
+"keys_value" = "Veri erişim anahtarlarının değeri";
+"ds_certificates" = "DS sertifikalarının kullanım önceliği";
+"csca_certificates" = "Dış CSCA sertifikalarının kullanımı";
+"pkd_certificates" = "PKD sertifikelerine güven";
+"passive_aAuthentication" = "Pasif Kimlik Doğrulama (PA)";
+"aa_after_ca" = "CA'dan sonra AA'yı gerçekleştirme";
+"profiler_type" = "Profil türü";
+"strict_iso" = "Sıkı ISO protokolü";
+
+"read_passport" = "Pasaportu oku";
+"machine_readable_zone" = "Makine tarafından okunabilir alan (DG1)";
+"facial_data" = "Yüz verileri (DG2)";
+"fingerprints" = "Parmak izleri (DG3)";
+"iris_data" = "İris Verileri (DG4)";
+"portrait_dg5" = "Portre(ler) (DG5)";
+"dg6" = "tanımlanmamış (DG6)";
+"dg7" = "İmza / alışılmış işaret resmi (DG7)";
+"dg8" = "Tanımlanmamış (DG8)";
+"dg9" = "Tanımlanmamış (DG9)";
+"dg10" = "Tanımlanmamış (DG10)";
+"de11" = "Ekstra kişisel detay(lar) (De11)";
+"dg12" = "Ek belge detayları (DG12)";
+"dg13" = "Opsiyonel detay(lar) (DG13)";
+"dg14" = "EAC bilgisi (DG14)";
+"dg15" = "Aktif Kimlik Doğrulama bilgisi (DG15)";
+"dg16" = "Bildirilmesi gereken kişi(ler) (DG16)";
+
+"Read_elD" = "elD'yi oku";
+"data_groups" = "Veri grupları";
+"document_type_dg1" = "Belge türü (DG1)";
+"issuing_state_dg2" = "Verici devlet (DG2)";
+"date_of_expiry_dg3" = "Son kullanma tarihi (DG3)";
+"given_name_dg4" = "Ad (DG4)";
+"family_name_dg5" = "Soyadı (DG5)";
+"pseudonym" = "Takma ad (DG6)";
+"academic_title" = "Akademik unvan (DG7)";
+"date_of_birthdg8" = "Doğum tarihi (DG8)";
+"place_of_birth_dg9" = "Doğum yeri (DG9)";
+"2dg10" = "Uyruğu (DG10)";
+"2dg11" = "Cinsiyet (DG11)";
+"2dg12" = "Opsiyonel detay(lar) (DG12)";
+"2dg13" = "Tanımsız (DG13)";
+"2dg14" = "Tanımsız (DG14)";
+"2dg15" = "Tanımsız (DG15)";
+"2dg16" = "Tanımsız (DG16)";
+"2dg17" = "Kaydedildiği yer (DG17)";
+"2dg18" = "Kaydedildiği yer (DG18)";
+"2dg19" = "İkamet izni 1 (DG19)";
+"2dg20" = "İkamet izni 2 (DG20)";
+"2dg21" = "Opsiyonel detay(lar) (DG21)";
+
+"3read_eDL" = "eDL'yi oku";
+"3data_groups" = "Veri grupları";
+"3text_data_elements" = "Metin veri unsurları (DG1)";
+"3dg2" = "Lisans sahibi bilgileri (DG2)";
+"3dg3" = "Verici otorite detayları (DG3)";
+"3dg4" = "Portre resmi (DG4)";
+"3dg5" = "İmza / alışılmış işaret resmi (DG5)";
+"3dg6" = "Biyometri - Yüz verileri (DG6)";
+"3dg7" = "Biyometri - Parmak izi (DG7)";
+"3dg8" = "Biyometri - İris Verileri (DG8)";
+"3dg9" = "Biyometri - Diğer (DG9)";
+"3dg10" = "Tanımlanmamış (DG10)";
+"3dg11" = "Opsiyonel yerel veriler (DG11)";
+"3dg12" = "Uyumsuzluk uyarısı (DG12)";
+"3dg13" = "Aktif Kimlik Doğrulama bilgisi (DG13)";
+"3dg14" = "EAC bilgisi (DG14)";
+
+
+"settings" = "Ayarlar";
+"enable" = "Etkinleştir";
+"disable" = "Devre dışı bırak";
+"advanced_settings" = "Gelişmiş ayarlar";
+"debug_settings" = "Hata ayıklama ayarları";
+"event_logs" = "Olay kayıtları";
+"no_data_found" = "Veri bulunamadı";
+"set_application_language" = "Uygulama dilini ayarla";
+"language_points" = "1. Devam et'e dokunun. Yeni bir pencere açılacak.
+2. Gerekli dili seçmek için Dile dokunun.";
+"language_desc" = "Dil ayarları mevcut değilse, cihazınızın dil ayarlarına gidin ve önce tercih ettiğiniz dili ayarlayın.";
+"continue" = "Devam et";
+"cancel" = "İptal";
+"video_settings" = "Video ayarları";
+"standard_inspection_procedure" = "Standart muayene prosedürü";
+"advance_inspection_procedure" = "Gelişmiş muayene prosedürü";
+"general_inspection_procedure" = "Genel muayene prosedürü";
+"only_bac" = "BAC";
+"only_pace" = "PACE";
+"iso_protocol" = "ISO protokolü";
+"of_external_csca" = "harici CSCA'nın";
+"2006" = "Doc 9303, 6. baskı, 2006";
+"2014" = "LSD ve PKI Bakımı, v2.0, 21 Mayıs 2014";
+"only_rfid" = "RFID";
+"only_authentication" = "Kimlik doğrulama";
+"menu" = "Menü";
+"choose_image" = "Görsel Seç";
+"camera" = "Kamera";
+"gallery" = "Galeri";
+

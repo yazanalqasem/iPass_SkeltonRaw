@@ -1,0 +1,371 @@
+/*
+  Localizable.strings
+
+  
+*/
+
+
+"amplify_ui_liveness_get_ready_page_title" = "لائیو نیس چیک";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "روشنی کی حساسیت کی وارننگ";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "یہ چیک مختلف رنگوں کی جھلک دکھاتا ہے۔ اگر آپ کو روشنی سے حساسیت ہے تو احتیاط کریں۔";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "روشنی کی حساسیت کی معلومات";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "روشنی کی حساسیت کی وارننگ";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "کچھ لوگوں کو رنگین روشنیوں کے سامنے آنے پر مرگی کے دورے پڑ سکتے ہیں۔ اگر آپ یا آپ کے خاندان میں کسی کو مرگی کا مسئلہ ہے تو احتیاط کریں۔";
+"amplify_ui_liveness_get_ready_begin_check" = "ویڈیو چیک شروع کریں";
+
+"amplify_ui_liveness_challenge_recording_indicator_label" = "ریک";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "الٹی گنتی کے دوران چہرے کی پوزیشن برقرار رکھیں۔";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "رنگین روشنیوں کے لیے چہرہ بیضوی میں رکھیں۔";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "پیچھے ہٹیں";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "قریب آئیں";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "چہرے کو کیمرے کے سامنے رکھیں";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "ہر چیک میں صرف ایک چہرہ";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "ساکن رہیں";
+
+"amplify_ui_liveness_challenge_connecting" = "کنیکٹ ہو رہا ہے...";
+"amplify_ui_liveness_challenge_verifying" = "تصدیق ہو رہی ہے";
+"amplify_ui_liveness_challenge_cancel_a11y" = "چیلنج منسوخ کریں";
+
+"amplify_ui_liveness_camera_setting_alert_title" = "اپنی کیمرہ سیٹنگز تبدیل کریں";
+"amplify_ui_liveness_camera_setting_alert_message" = "سیٹنگز میں کیمرہ کی اجازت دیں۔";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "سیٹنگ اپ ڈیٹ کریں";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "ابھی نہیں";
+
+"amplify_ui_liveness_close_button_a11y" = "بند کریں";
+
+"amplify_ui_liveness_center_your_face_text" = "اپنے چہرے کو درمیان میں رکھیں";
+"amplify_ui_liveness_camera_permission_page_title" = "لائیو نیس چیک";
+"amplify_ui_liveness_camera_permission_button_title" = "کیمرہ سیٹنگ تبدیل کریں";
+"amplify_ui_liveness_camera_permission_button_header" = "کیمرہ دستیاب نہیں ہے";
+"amplify_ui_liveness_camera_permission_button_description" = "آپ کو کیمرہ کی اجازت دینے کے لیے سیٹنگز میں جانا پڑ سکتا ہے، ایپ کو بند کریں اور دوبارہ کوشش کریں۔";
+
+
+"amplify_ui_liveness_face_not_prepared_reason_pendingCheck" = " ";
+"amplify_ui_liveness_face_not_prepared_reason_not_in_oval" = "حرك وجهك ليتناسب مع الشكل البيضاوي";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_closer" = "اقترب أكثر";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_right" = "حرك وجهك إلى اليمين";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_left" = "حرك وجهك إلى اليسار";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_dimmer_area" = "انتقل إلى منطقة أقل إضاءة";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_brighter_area" = "انتقل إلى منطقة أكثر إضاءة";
+"amplify_ui_liveness_face_not_prepared_reason_no_face" = "ضع وجهك أمام الكاميرا";
+"amplify_ui_liveness_face_not_prepared_reason_multiple_faces" = "فقط وجه واحد لكل فحص";
+"amplify_ui_liveness_face_not_prepared_reason_face_too_close" = "أبعد وجهك عن الكاميرا";
+
+"full_process_title" = "مکمل پراسیسنگ";
+"full_process_desc" = "دستاویزات کا تمام ڈیٹا حاصل کرنے کا پراسیسنگ منظر نامہ۔";
+
+"bank_card_title" = "بینک کارڈ";
+"bank_card_desc" = "بینک کارڈ کا ڈیٹا حاصل کرنے کا پراسیسنگ منظر نامہ۔";
+
+"mrz_title" = "ایم آر زیڈ";
+"mrz_desc" = "ایم آر زیڈ ڈیٹا حاصل کرنے کا پراسیسنگ منظر نامہ۔";
+
+"id_spoffing_title" = "آئی ڈی اسپورفنگ";
+"id_spoffing_desc" = "اس میں کسی دستاویز کی شناختی تفصیلات میں جعلسازی یا تبدیلی شامل ہے۔";
+
+"passive_liveness_title" = "غیر فعال زندہ دلی";
+"passive_liveness_desc" = "غیر فعال زندہ دلی ایک حفاظتی تکنیک ہے جو صارف کی تصدیق کرتی ہے۔";
+
+"face_matching_title" = "چہرے کی مطابقت";
+"face_matching_desc" = "اس عمل میں ہم دو چہروں کی تصاویر کا موازنہ کرتے ہیں تاکہ معلوم ہو سکے کہ وہ ایک ہی شخص سے تعلق رکھتے ہیں یا نہیں۔";
+
+
+"age" = "عمر";
+"dismiss" = "رد کریں";
+"portrait_comparison" = "پورٹریٹ موازنہ";
+"portrait_vs_camera" = "پورٹریٹ بمقابلہ کیمرہ تصویر";
+"liveness_score" = "زندگی کا اسکور:";
+"face_matching_score" = "چہرہ ملانے کا اسکور:";
+"biometric_verification" = "بایومیٹرک تصدیق";
+"face_matching" = "چہرہ ملانا";
+"liveness_check" = "زندگی کی جانچ";
+"document_verification" = "دستاویز کی تصدیق";
+"optical" = "آپٹیکل";
+"document_type" = "دستاویز کی قسم";
+"text_fields" = "متن کے خانے";
+"image_quality" = "تصویر کا معیار";
+"authenticity" = "مستند";
+"rfid_chip" = "آر ایف آئی ڈی چپ";
+"bac" = "بنیادی رسائی کنٹرول";
+"pace" = "پاس ورڈ تصدیق شدہ کنکشن کا قیام";
+"ca" = "چپ کی تصدیق";
+"ta" = "ٹرمینل کی تصدیق";
+"aa" = "فعال تصدیق";
+"pa" = "غیر فعال تصدیق";
+"metadata" = "میٹا ڈیٹا";
+"optical_processing" = "آپٹیکل پروسیسنگ";
+"rfid_chip_processing" = "آر ایف آئی ڈی چپ پروسیسنگ";
+"selfie_time" = "سیلفی کا وقت!";
+"get_ready" = "تیار ہو جائیں";
+"good_illumination" = "اچھی روشنی۔";
+"no_accessories" = "کوئی لوازمات نہیں: چشمہ، ماسک، ٹوپی وغیرہ۔";
+"camera_at_eye" = "کیمرہ آنکھ کی سطح پر رکھیں۔";
+"go" = "جائیں";
+"powered_by" = "iPass کی مدد سے";
+"passive_liveness" = "غیر فعال زندگی";
+"liveness_confidence" = "زندگی کا اعتماد کی سطح";
+"liveness_status" = "زندگی کی حالت";
+"rejected" = "مسترد";
+"passed" = "کامیاب";
+"warning" = "انتباہ";
+"front" = "سامنے";
+"back" = "پیچھے";
+"origin" = "ماخذ";
+"reasons" = "وجوہات";
+"liveness" = "زندگی";
+"image_pattern" = "تصویری نمونہ";
+"barcode_format" = "بارکوڈ فارمیٹ";
+"photo_embedding" = "تصویر شامل کرنا";
+"ipi" = "ipi";
+"colorness" = "رنگت";
+"focus" = "توجہ";
+"glares" = "چمک";
+"potrait" = "پورٹریٹ";
+"bounds" = "سرحدیں";
+"angle" = "زاویہ";
+"resolution" = "حل";
+
+"general" = "عمومی";
+"settings" = "سیٹنگز";
+"verification_statuses" = "تصدیقی حیثیتیں";
+"about_app" = "ایپ کے بارے میں";
+"review_the_app" = "ایپ کا جائزہ لیں";
+"share_the_app" = "ایپ کو شیئر کریں";
+"get_in_touch" = "رابطہ کریں";
+"contact_us" = "ہم سے رابطہ کریں";
+"help_center" = "مدد مرکز";
+"learn_more" = "مزید جانیں";
+"visit_website" = "ہماری ویب سائٹ پر جائیں";
+"view_on_store" = "ایپ اسٹور پر دیکھیں";
+"legal" = "قانونی";
+"privacy_policy" = "پرائیویسی پالیسی";
+
+
+"about_us" = "
+        یہ ایپلیکیشن آپ کو شناختی دستاویزات (پاسپورٹ، شناختی کارڈ، ڈرائیونگ لائسنس، رہائشی اجازت نامے، ویزے، بورڈنگ پاس وغیرہ) اور بینک کارڈز سے ڈیٹا پڑھنے اور تصدیق کرنے کی اجازت دیتی ہے۔
+ 
+        کسی دستاویز کو مکمل طور پر فریم کے اندر رکھیں، یہ خود بخود شناخت، کراپ اور پہچان لی جائے گی۔ دستاویز کی قسم خود بخود شناخت کی جائے گی۔ MRZ، بصری زون اور بارکوڈز کو پہچانا جائے گا اور انہیں ٹیکسٹ فیلڈز میں تبدیل کیا جائے گا۔ گرافک فیلڈز خود بخود کراپ کیے جائیں گے۔
+ 
+        ڈیٹا کی تصدیق پڑھنے کے بعد کی جاتی ہے، جہاں قابل اطلاق ہو، اور مجموعی تصدیق کی حیثیت ظاہر کی جاتی ہے۔
+ 
+        تمام پروسیسنگ مکمل طور پر آف لائن کی جاتی ہے، کوئی بھی ڈیٹا آپ کے ڈیوائس سے باہر نہیں جاتا۔
+ 
+        اگر آپ کے کوئی سوالات، مسائل یا تجاویز ہیں تو براہ کرم ہم سے رابطہ کریں۔
+";
+
+"verification_statuses" = "تصدیق کی حیثیتیں";
+"success" = "کامیابی";
+"failed" = "ناکام";
+"id_document_verification" = "شناختی دستاویز کی تصدیق";
+"id_document_expiration" = "شناختی دستاویز کی میعاد ختم ہونے کی جانچ";
+"face_comparison" = "چہرے کا موازنہ (چہرے کی تصاویر کا موازنہ کرتا ہے اور یہ طے کرتا ہے کہ آیا وہ ملتے ہیں)";
+"liveness_check_str" = "زندگی کی جانچ (یہ تصدیق کرتا ہے کہ ایک موبائل ڈیوائس کے سامنے پیش کردہ چہرہ ایک زندہ انسان ہے)";
+
+
+"identity_verification" = "شناخت کی تصدیق";
+"scanning_settings" = "سکیننگ کی ترتیبات";
+"sound_vibration" = "آواز اور وائبریشن";
+"instructions" = "ہدایات";
+"multipage_processing" = "کثیر صفحات کی پروسیسنگ";
+"double_page" = "ڈبل پیج پروسیسنگ";
+"rfid_chip_processing" = "آر ایف آئی ڈی چپ پروسیسنگ";
+"sound" = "آواز";
+"vibration" = "وائبریشن";
+"show_instructions" = "ہدایات دکھائیں";
+"advanced" = "ایڈوانسڈ";
+"reset_all_settings" = "تمام ترتیبات کو ری سیٹ کریں";
+"portrait_with_selfie" = "دستاویز کے پورٹریٹ کا سیلفی کے ساتھ موازنہ کریں";
+"multipage_processing_desc" = "کثیر صفحات کی دستاویزات کی پروسیسنگ کو فعال کریں";
+"double_page_desc" = "ڈبل پیج دستاویز کی پروسیسنگ کو فعال کریں";
+"rfid_chip_processing_desc" = "دستاویز پروسیسنگ مکمل ہونے پر آر ایف آئی ڈی چپ کی پڑھائی شروع کریں";
+"sound_desc" = "پروسیسنگ مکمل ہونے پر آواز نکالیں";
+"vibration_desc" = "پروسیسنگ مکمل ہونے پر وائبریشن کریں";
+"show_identity_desc" = "شناختی دستاویز کی سکیننگ کی ہدایات دکھائیں";
+"interface_settings" = "انٹرفیس کی ترتیبات";
+"debug" = "ڈیبگ";
+"capture_button" = "کیپچر بٹن";
+"camera_switch" = "کیمرہ سوئچ بٹن";
+"hint_messages" = "ہنٹ میسجز";
+"help" = "مدد";
+"language" = "زبان";
+"timeout" = "ٹائم آؤٹ";
+"timeout_detection" = "دستاویز کی شناخت کے آغاز سے ٹائم آؤٹ";
+"timeout_identification" = "دستاویز کی قسم کی شناخت کے آغاز سے ٹائم آؤٹ";
+"motion_detection" = "موشن ڈیٹیکشن";
+"focusing_detection" = "فوکَس کی شناخت";
+"processing_modes" = "پروسیسنگ موڈز";
+"camera_resolution" = "کیمرہ ریزولوشن";
+"adiust_zoom" = "زوم کی سطح کو ایڈجسٹ کریں";
+"zoom_level" = "زوم کی سطح";
+"manual_crop" = "دستی کراپ";
+"minimum_dpi" = "کم از کم ڈی پی آئی";
+"perspective_angle" = "نقطہ نظر کا زاویہ";
+"integral_image" = "مکمل تصویر";
+"hologram_detection" = "ہولوگرام کی شناخت";
+"image_quality" = "تصویر کا معیار";
+"date_format" = "تاریخ کا فارمیٹ";
+"document_filter" = "دستاویز کا فلٹر";
+"custom_parameters" = "کسٹم پیرامیٹرز";
+
+
+"button_for_capturing" = "ایک فریم پکڑنے اور پروسیس کرنے کے لیے بٹن دکھائیں";
+"button_for_switching" = "پروسیسنگ کے دوران کیمروں کے درمیان سوئچ کرنے کے لیے بٹن دکھائیں";
+"hints_during_video" = "ویڈیو پروسیسنگ کے دوران اشارے دکھائیں";
+"instructional_animation" = "اسکیننگ شروع ہونے پر ایک ہدایت نامہ متحرک دکھائیں";
+"application_language" = "ایپلیکیشن کی زبان مرتب کریں";
+"pause_scanning" = "اگر فون میں نمایاں حرکت کا پتہ چلے تو اسکیننگ کو روکیں";
+"camera_is_focusing" = "جب کیمرہ فوکس کر رہا ہو تو اسکیننگ کو روکیں۔ یہ کیمرے کی پروسیسنگ کی رفتار کم کر سکتا ہے";
+"select_date_format" = "نتائج کے لیے تاریخ کا فارمیٹ منتخب کریں";
+
+
+"sound_settings" = "آواز کی ترتیبات";
+"select_sound" = "منتخب آواز";
+"sound_enabled" = "آواز فعال ہے";
+"beep1" = "بپ1";
+"beep2" = "بپ2";
+"beep3" = "بپ3";
+"beep4" = "بپ4";
+"beep5" = "بپ5";
+
+"save_event_logs" = "ایونٹ لاگ محفوظ کریں";
+"save_images" = "تصاویر محفوظ کریں";
+"save_cropped_images" = "کٹے ہوئے تصاویر محفوظ کریں";
+"save_rfid_session" = "RFID سیشن محفوظ کریں";
+"report_event_logs" = "ایونٹ لاگ کی رپورٹ کریں";
+"show_metadata" = "میٹا ڈیٹا دکھائیں";
+"save_event_logs_desc" = "ایونٹ لاگ کو ڈیوائس پر محفوظ کریں";
+"save_images_desc" = "تصاویر محفوظ کریں (ڈی بگنگ فنکشن کے لیے)";
+"save_cropped_images_desc" = "کٹے ہوئے تصاویر محفوظ کریں (ڈی بگنگ فنکشن کے لیے)";
+"save_rfid_session_desc" = "RFID سیشن کو ڈیوائس پر محفوظ کریں (ڈی بگنگ کے لیے)";
+"auto" = "خودکار";
+"video_processing" = "ویڈیو پروسیسنگ";
+"frame_processing" = "فریم پروسیسنگ";
+"photo" = "تصویر";
+"high" = "اعلیٰ";
+"medium" = "درمیانہ";
+"low" = "کم";
+"352_288" = "352×288";
+"640_480" = "640×480";
+"iframe960_540" = "iFrame960×540";
+"iframe1280_720" = "iFrame1280×720";
+"1280_720" = "1280×720";
+"1920_1080" = "1920×1080";
+"3840_2160" = "3840×2160";
+
+"glares" = "چمکیں";
+"focus" = "فوکس";
+"color" = "رنگ";
+"dpi_threshold" = "DPI تھRESHOLD";
+"angle_threshold" = "زاویہ تھRESHOLD";
+"document_position" = "دستاویز کی پوزیشن: انڈینٹ";
+"minimum_indent_from" = "دستاویز کے کونوں سے تصویر کی سرحدوں تک کم از کم انڈینٹ";
+
+"default" = "ڈیفالٹ";
+"dd/mm/yyyy" = "dd/mm/yyyy";
+"mm/dd/yyyy" = "mm/dd/yyyy";
+"dd-mm-yyyy" = "dd-mm-yyyy";
+"mm-dd-yyyy" = "mm-dd-yyyy";
+"dd/mm/yy" = "dd/mm/yy";
+
+
+"procedure_type" = "تصدیق کے طریقہ کار کی قسم";
+"messaging_procedure" = "بنیادی سیکیورٹی پیغام رسانی کا طریقہ کار";
+"access_key" = "ڈیٹا تک رسائی کی کلید";
+"keys_value" = "ڈیٹا تک رسائی کی کلیدوں کی قیمت";
+"ds_certificates" = "DS سرٹیفکیٹ کے استعمال کی ترجیح";
+"csca_certificates" = "باہری CSCA سرٹیفکیٹ کا استعمال";
+"pkd_certificates" = "PKD سرٹیفکیٹ پر اعتماد";
+"passive_aAuthentication" = "غیر فعال تصدیق (PA)";
+"aa_after_ca" = "CA کے بعد AA کو انجام نہ دیں";
+"profiler_type" = "پروفائلر کی قسم";
+"strict_iso" = "سخت ISO پروٹوکول";
+
+"read_passport" = "پاسپورٹ پڑھیں";
+"machine_readable_zone" = "مشین کے ذریعے پڑھنے کے قابل علاقہ (DG1)";
+"facial_data" = "چہرے کے ڈیٹا (DG2)";
+"fingerprints" = "انگشت کی نشانیاں (DG3)";
+"iris_data" = "آئرس کے ڈیٹا (DG4)";
+"portrait_dg5" = "پورٹریٹ (DG5)";
+"dg6" = "تعریف شدہ نہیں (DG6)";
+"dg7" = "دستخط / معمول کا نشان کی تصویر (DG7)";
+"dg8" = "تعریف شدہ نہیں (DG8)";
+"dg9" = "تعریف شدہ نہیں (DG9)";
+"dg10" = "تعریف شدہ نہیں (DG10)";
+"de11" = "اضافی ذاتی تفصیلات (De11)";
+"dg12" = "اضافی دستاویز کی تفصیلات (DG12)";
+"dg13" = "آپشنل تفصیلات (DG13)";
+"dg14" = "EAC کی معلومات (DG14)";
+"dg15" = "فعال تصدیق کی معلومات (DG15)";
+"dg16" = "نوٹس کے لیے شخص(یات) (DG16)";
+
+"Read_elD" = "elD پڑھیں";
+"data_groups" = "ڈیٹا گروپ";
+"document_type_dg1" = "دستاویز کی قسم (DG1)";
+"issuing_state_dg2" = "جاری کرنے والا ریاست (DG2)";
+"date_of_expiry_dg3" = "ختم ہونے کی تاریخ (DG3)";
+"given_name_dg4" = "پہلا نام (DG4)";
+"family_name_dg5" = "کنیت (DG5)";
+"pseudonym" = "جعلی نام (DG6)";
+"academic_title" = "تعلیمی عنوان (DG7)";
+"date_of_birthdg8" = "تاریخ پیدائش (DG8)";
+"place_of_birth_dg9" = "پیدائش کی جگہ (DG9)";
+"2dg10" = "قومیت (DG10)";
+"2dg11" = "جنس (DG11)";
+"2dg12" = "آپشنل تفصیلات (DG12)";
+"2dg13" = "تعریف شدہ نہیں (DG13)";
+"2dg14" = "تعریف شدہ نہیں (DG14)";
+"2dg15" = "تعریف شدہ نہیں (DG15)";
+"2dg16" = "تعریف شدہ نہیں (DG16)";
+"2dg17" = "رجسٹریشن کی جگہ (DG17)";
+"2dg18" = "رجسٹریشن کی جگہ (DG18)";
+"2dg19" = "رہائشی اجازت نامہ 1 (DG19)";
+"2dg20" = "رہائشی اجازت نامہ 2 (DG20)";
+"2dg21" = "آپشنل تفصیلات (DG21)";
+
+"3read_eDL" = "eDL پڑھیں";
+"3data_groups" = "ڈیٹا گروپ";
+"3text_data_elements" = "متن ڈیٹا عناصر (DG1)";
+"3dg2" = "لائسنس ہولڈر کی معلومات (DG2)";
+"3dg3" = "جاری کرنے والی اتھارٹی کی تفصیلات (DG3)";
+"3dg4" = "پورٹریٹ تصویر (DG4)";
+"3dg5" = "دستخط / معمول کا نشان کی تصویر (DG5)";
+"3dg6" = "بایومیٹری - چہرے کے ڈیٹا (DG6)";
+"3dg7" = "بایومیٹری - انگلی کے نشان (DG7)";
+"3dg8" = "بایومیٹری - آئرس کے ڈیٹا (DG8)";
+"3dg9" = "بایومیٹری - دیگر (DG9)";
+"3dg10" = "تعریف شدہ نہیں (DG10)";
+"3dg11" = "آپشنل گھریلو ڈیٹا (DG11)";
+"3dg12" = "غیر ملاپ کی اطلاع (DG12)";
+"3dg13" = "فعال تصدیق کی معلومات (DG13)";
+"3dg14" = "EAC کی معلومات (DG14)";
+
+"settings" = "ترتیبات";
+"enable" = "فعال کریں";
+"disable" = "غیر فعال کریں";
+"advanced_settings" = "اعلیٰ ترتیبات";
+"debug_settings" = "ڈی بگ ترتیبات";
+"event_logs" = "ایونٹ لاگز";
+"no_data_found" = "کوئی ڈیٹا نہیں ملا";
+"set_application_language" = "ایپلیکیشن کی زبان مقرر کریں";
+"language_points" = "1. جاری رکھنے پر ٹیپ کریں۔ ایک نئی ونڈو کھلے گی۔
+2. مطلوبہ زبان منتخب کرنے کے لیے زبان پر ٹیپ کریں۔";
+"language_desc" = "اگر کوئی زبان کی ترتیبات دستیاب نہیں ہیں تو پہلے اپنے آلے کی زبان کی ترتیبات میں جا کر اپنی پسندیدہ زبان مقرر کریں۔";
+"continue" = "جاری رکھیں";
+"cancel" = "منسوخ کریں";
+"video_settings" = "ویڈیو کی ترتیبات";
+"standard_inspection_procedure" = "معیاری معائنہ کا طریقہ کار";
+"advance_inspection_procedure" = "ترقی یافتہ معائنہ کا طریقہ کار";
+"general_inspection_procedure" = "جنرل معائنہ کا طریقہ کار";
+"only_bac" = "BAC";
+"only_pace" = "PACE";
+"iso_protocol" = "ISO پروٹوکول";
+"of_external_csca" = "باہر کے CSCA کا";
+"2006" = "Doc 9303، 6 ویں ایڈیشن، 2006";
+"2014" = "LSD اور PKI کی دیکھ بھال، v2.0، 21 مئی 2014";
+"only_rfid" = "RFID";
+"only_authentication" = "تصدیق";
+"menu" = "مینو";
+"choose_image" = "تصویر منتخب کریں";
+"camera" = "کیمرہ";
+"gallery" = "گیلری";
+

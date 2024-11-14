@@ -1,0 +1,382 @@
+/*
+  Localizable.strings
+
+  
+*/
+
+
+"amplify_ui_liveness_get_ready_page_title" = "Lebendigkeitstest";
+"amplify_ui_liveness_get_ready_photosensitivity_title" = "Warnung vor Photosensibilität";
+"amplify_ui_liveness_get_ready_photosensitivity_description" = "Dieser Test blinkt in
+verschiedenen Farben. Seien Sie vorsichtig, wenn Sie lichtempfindlich sind.";
+"amplify_ui_liveness_get_ready_photosensitivity_icon_a11y" = "Informationen zur
+Photosensibilität";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_title" = "Warnung vor
+Photosensibilität";
+"amplify_ui_liveness_get_ready_photosensitivity_dialog_description" = "Einige Menschen
+können epileptische Anfälle bekommen, wenn sie farbigem Licht ausgesetzt sind. Seien
+Sie vorsichtig, wenn Sie oder jemand in Ihrer Familie eine epileptische Erkrankung haben.";
+"amplify_ui_liveness_get_ready_begin_check" = "Video-Check starten";
+"amplify_ui_liveness_challenge_recording_indicator_label" = "REC";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_countdown" = "Halten Sie
+die Gesichtposition während des Countdowns.";
+"amplify_ui_liveness_challenge_instruction_hold_face_during_freshness" = "Halten Sie
+das Gesicht im Oval für farbige Lichter.";
+"amplify_ui_liveness_challenge_instruction_move_face_back" = "Zurück bewegen";
+"amplify_ui_liveness_challenge_instruction_move_face_closer" = "Näher bewegen";
+"amplify_ui_liveness_challenge_instruction_move_face_in_front_of_camera" = "Gesicht
+vor die Kamera bewegen";
+"amplify_ui_liveness_challenge_instruction_multiple_faces_detected" = "Nur ein Gesicht
+pro Überprüfung";
+"amplify_ui_liveness_challenge_instruction_hold_still" = "Stillhalten";
+"amplify_ui_liveness_challenge_connecting" = "Verbindung wird hergestellt...";
+"amplify_ui_liveness_challenge_verifying" = "Überprüfung läuft";
+"amplify_ui_liveness_challenge_cancel_a11y" = "Überprüfung abbrechen";
+"amplify_ui_liveness_camera_setting_alert_title" = "Ändern Sie Ihre Kameraeinstellungen";
+"amplify_ui_liveness_camera_setting_alert_message" = "Erlauben Sie die Kameraerlaubnis
+in den Einstellungen.";
+"amplify_ui_liveness_camera_setting_alert_update_setting_button_text" = "Einstellung
+aktualisieren";
+"amplify_ui_liveness_camera_setting_alert_not_now_button_text" = "Nicht jetzt";
+"amplify_ui_liveness_close_button_a11y" = "Schließen";
+"amplify_ui_liveness_center_your_face_text" = "Zentrieren Sie Ihr Gesicht";
+"amplify_ui_liveness_camera_permission_page_title" = "Lebendigkeitstest";
+"amplify_ui_liveness_camera_permission_button_title" = "Kameraeinstellung ändern";
+"amplify_ui_liveness_camera_permission_button_header" = "Kamera ist nicht zugänglich";
+"amplify_ui_liveness_camera_permission_button_description" = "Sie müssen
+möglicherweise in die Einstellungen gehen, um die Kameraerlaubnisse zu erteilen, die App
+schließen und es erneut versuchen.";
+"amplify_ui_liveness_face_not_prepared_reason_pendingCheck" = " ";
+"amplify_ui_liveness_face_not_prepared_reason_not_in_oval" = "Bewegen Sie Ihr Gesicht,
+um es in das Oval zu passen";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_closer" = "Näher bewegen";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_right" = "Gesicht nach rechts
+bewegen";
+"amplify_ui_liveness_face_not_prepared_reason_move_face_left" = "Gesicht nach links
+bewegen";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_dimmer_area" = "In einen
+dunkleren Bereich bewegen";
+"amplify_ui_liveness_face_not_prepared_reason_move_to_brighter_area" = "In einen
+helleren Bereich bewegen";
+"amplify_ui_liveness_face_not_prepared_reason_no_face" = "Gesicht vor die Kamera
+bewegen";
+"amplify_ui_liveness_face_not_prepared_reason_multiple_faces" = "Nur ein Gesicht pro
+Überprüfung";
+"amplify_ui_liveness_face_not_prepared_reason_face_too_close" = "Gesicht weiter weg
+bewegen";
+
+
+"full_process_title" = "Vollständige Verarbeitung";
+"full_process_desc" = "Verarbeitungsszenario zum Abrufen aller Dokumentdaten.";
+
+"bank_card_title" = "Bankkarte";
+"bank_card_desc" = "Verarbeitungsszenario zum Abrufen der Bankkartendaten.";
+
+"mrz_title" = "MRZ";
+"mrz_desc" = "Verarbeitungsszenario zum Abrufen der MRZ-Daten.";
+
+"id_spoffing_title" = "ID-Spoofing";
+"id_spoffing_desc" = "Dabei handelt es sich um das Fälschen oder Ändern von Identifikationsdaten eines Dokuments.";
+
+"passive_liveness_title" = "Passive Lebendigkeit";
+"passive_liveness_desc" = "Passive Lebendigkeit ist eine Sicherheitstechnik, die die Authentizität eines Benutzers überprüft.";
+
+"face_matching_title" = "Gesichtserkennung";
+"face_matching_desc" = "In diesem Prozess vergleichen wir zwei Gesichtsaufnahmen, um festzustellen, ob sie derselben Person gehören.";
+
+
+"age" = "Alter";
+"dismiss" = "Verwerfen";
+"portrait_comparison" = "Porträtvergleich";
+"portrait_vs_camera" = "Porträt vs Kamera-Bild";
+"liveness_score" = "Lebendigkeitsbewertung:";
+"face_matching_score" = "Gesichtsanpassungsbewertung:";
+"biometric_verification" = "Biometrische Verifizierung";
+"face_matching" = "Gesichtsanpassung";
+"liveness_check" = "Lebendigkeitsprüfung";
+"document_verification" = "Dokumentenprüfung";
+"optical" = "Optisch";
+"document_type" = "Dokumententyp";
+"text_fields" = "Textfelder";
+"image_quality" = "Bildqualität";
+"authenticity" = "Authentizität";
+"rfid_chip" = "RFID-Chip";
+"bac" = "Basiszugangskontrolle";
+"pace" = "Passwort-Authentifizierte Verbindungseinrichtung";
+"ca" = "Chip-Authentifizierung";
+"ta" = "Terminal-Authentifizierung";
+"aa" = "Aktive Authentifizierung";
+"pa" = "Passive Authentifizierung";
+"metadata" = "Metadaten";
+"optical_processing" = "Optische Verarbeitung";
+"rfid_chip_processing" = "RFID-Chip-Verarbeitung";
+"selfie_time" = "Selfie-Zeit!";
+"get_ready" = "Bereitmachen";
+"good_illumination" = "Gute Beleuchtung.";
+"no_accessories" = "Keine Accessoires: Brille, Maske, Hut, usw.";
+"camera_at_eye" = "Kamera auf Augenhöhe.";
+"go" = "Los";
+"powered_by" = "Unterstützt von iPass";
+"passive_liveness" = "Passive Lebendigkeit";
+"liveness_confidence" = "Vertrauensstufe der Lebendigkeit";
+"liveness_status" = "Lebendigkeitsstatus";
+"rejected" = "Abgelehnt";
+"passed" = "Bestanden";
+"warning" = "Warnung";
+"front" = "Vorne";
+"back" = "Hinten";
+"origin" = "Ursprung";
+"reasons" = "Gründe";
+"liveness" = "Lebendigkeit";
+"image_pattern" = "Bildmuster";
+"barcode_format" = "Barcode-Format";
+"photo_embedding" = "Foto-Einbettung";
+"ipi" = "ipi";
+"colorness" = "Farbenfreudigkeit";
+"focus" = "Fokus";
+"glares" = "Blitze";
+"potrait" = "Porträt";
+"bounds" = "Grenzen";
+"angle" = "Perspektivwinkel";
+"resolution" = "Auflösung";
+
+"general" = "Allgemein";
+"settings" = "Einstellungen";
+"verification_statuses" = "Überprüfungsstatus";
+"about_app" = "Über die App";
+"review_the_app" = "Bewerten Sie die App";
+"share_the_app" = "Teilen Sie die App";
+"get_in_touch" = "Kontaktieren Sie uns";
+"contact_us" = "Kontaktieren Sie uns";
+"help_center" = "Hilfezentrum";
+"learn_more" = "Erfahren Sie mehr";
+"visit_website" = "Besuchen Sie unsere Website";
+"view_on_store" = "Im App Store ansehen";
+"legal" = "Rechtlich";
+"privacy_policy" = "Datenschutzrichtlinie";
+
+"about_us" = "
+        Diese Anwendung ermöglicht es Ihnen, Daten aus Identifikationsdokumenten (Reisepässe, Personalausweise, Führerscheine, Aufenthaltserlaubnisse, Visa, Bordkarten usw.) und Bankkarten zu lesen und zu überprüfen.
+ 
+        Positionieren Sie ein Dokument vollständig innerhalb des Rahmens, und es wird automatisch erkannt, zugeschnitten und ausgelesen. Der Dokumenttyp wird automatisch erkannt. Die MRZ, die visuelle Zone und Barcodes werden erkannt und in Textfelder umgewandelt. Grafische Felder werden automatisch zugeschnitten.
+ 
+        Die Datenüberprüfung wird nach dem Lesen durchgeführt, sofern zutreffend, und der allgemeine Verifizierungsstatus wird angezeigt.
+ 
+        Alle Verarbeitungen werden vollständig offline durchgeführt, keine Daten verlassen Ihr Gerät.
+ 
+        Bitte kontaktieren Sie uns, wenn Sie Fragen, Probleme oder Vorschläge haben.
+";
+
+"verification_statuses" = "Überprüfungsstatus";
+"success" = "Erfolg";
+"failed" = "Fehlgeschlagen";
+"id_document_verification" = "Überprüfung des Ausweisdokuments";
+"id_document_expiration" = "Überprüfung des Ablaufs des Ausweisdokuments";
+"face_comparison" = "Gesichtvergleich (vergleicht Gesichtsabbildungen und bestimmt, ob sie übereinstimmen)";
+"liveness_check_str" = "Lebendigkeitsprüfung (überprüft, ob das Gesicht, das einem mobilen Gerät präsentiert wird, zu einem lebenden Menschen gehört)";
+
+"identity_verification" = "IDENTITÄTSVERIFIZIERUNG";
+"scanning_settings" = "SCANNEREINSTELLUNGEN";
+"sound_vibration" = "TON UND VIBRATION";
+"instructions" = "ANWEISUNGEN";
+"multipage_processing" = "Mehrseitige Verarbeitung";
+"double_page" = "Doppelseitige Verarbeitung";
+"rfid_chip_processing" = "RFID-Chip-Verarbeitung";
+"sound" = "Ton";
+"vibration" = "Vibration";
+"show_instructions" = "Anweisungen anzeigen";
+"advanced" = "Erweitert";
+"reset_all_settings" = "Alle Einstellungen zurücksetzen";
+"portrait_with_selfie" = "Vergleichen Sie das Portrait aus dem Dokument mit dem Selfie";
+"multipage_processing_desc" = "Mehrseitige Dokumentenverarbeitung aktivieren";
+"double_page_desc" = "Verarbeitung einer Doppelseite aktivieren";
+"rfid_chip_processing_desc" = "Starte das Lesen des RFID-Chips, sobald die Dokumentenverarbeitung abgeschlossen ist";
+"sound_desc" = "Ton abspielen, wenn die Verarbeitung abgeschlossen ist";
+"vibration_desc" = "Vibrieren, wenn die Verarbeitung abgeschlossen ist";
+"show_identity_desc" = "Anweisungen zum Scannen des Ausweisdokuments anzeigen";
+"interface_settings" = "SCHNITTSTELLENEINSTELLUNGEN";
+"debug" = "Debuggen";
+"capture_button" = "Aufnahmetaste";
+"camera_switch" = "Kamera-Wechseltaste";
+"hint_messages" = "Hinweismeldungen";
+"help" = "Hilfe";
+"language" = "Sprache";
+"timeout" = "Zeitüberschreitung";
+"timeout_detection" = "Zeitüberschreitung ab Dokumentenerkennung";
+"timeout_identification" = "Zeitüberschreitung ab Dokumententyp-Erkennung";
+"motion_detection" = "Bewegungserkennung";
+"focusing_detection" = "Fokuserkennung";
+"processing_modes" = "Verarbeitungsmodi";
+"camera_resolution" = "Kameraauflösung";
+"adiust_zoom" = "Zoomstufe anpassen";
+"zoom_level" = "Zoomstufe";
+"manual_crop" = "Manueller Zuschnitt";
+"minimum_dpi" = "Minimale DPI";
+"perspective_angle" = "Perspektivenwinkel";
+"integral_image" = "Integriertes Bild";
+"hologram_detection" = "Hologrammerkennung";
+"image_quality" = "Bildqualität";
+"date_format" = "Datumsformat";
+"document_filter" = "Dokumentenfilter";
+"custom_parameters" = "Benutzerdefinierte Parameter";
+
+"button_for_capturing" = "Schaltfläche zum Erfassen und Verarbeiten eines einzelnen Bildes anzeigen";
+"button_for_switching" = "Schaltfläche zum Wechseln zwischen Kameras während der Verarbeitung anzeigen";
+"hints_during_video" = "Hinweise während der Videoverarbeitung anzeigen";
+"instructional_animation" = "Eine Anleitung anzeigen, wenn das Scannen beginnt";
+"application_language" = "Anwendungssprache festlegen";
+"pause_scanning" = "Scannen anhalten, wenn eine signifikante Bewegung des Telefons erkannt wird";
+"camera_is_focusing" = "Scannen anhalten, während die Kamera scharfstellt. Dies kann die Verarbeitungsgeschwindigkeit der Kamera verringern";
+"select_date_format" = "Wählen Sie das Datumsformat für die Ergebnisse";
+
+"sound_settings" = "TONEINSTELLUNGEN";
+"select_sound" = "AUSGEWÄHLTER TON";
+"sound_enabled" = "Ton aktiviert";
+"beep1" = "Piepton1";
+"beep2" = "Piepton2";
+"beep3" = "Piepton3";
+"beep4" = "Piepton4";
+"beep5" = "Piepton5";
+
+"save_event_logs" = "Ereignisprotokolle speichern";
+"save_images" = "Bilder speichern";
+"save_cropped_images" = "Zugeschnittene Bilder speichern";
+"save_rfid_session" = "RFID-Sitzung speichern";
+"report_event_logs" = "Ereignisprotokolle melden";
+"show_metadata" = "Metadaten anzeigen";
+"save_event_logs_desc" = "Ereignisprotokolle auf dem Gerät speichern";
+"save_images_desc" = "Bilder speichern (für die Debugging-Funktion)";
+"save_cropped_images_desc" = "Zugeschnittene Bilder speichern (für die Debugging-Funktion)";
+"save_rfid_session_desc" = "RFID-Sitzung auf dem Gerät speichern (für das Debugging)";
+"auto" = "Automatisch";
+"video_processing" = "Videobearbeitung";
+"frame_processing" = "Bildbearbeitung";
+"photo" = "Foto";
+"high" = "Hoch";
+"medium" = "Mittel";
+"low" = "Niedrig";
+"352_288" = "352×288";
+"640_480" = "640×480";
+"iframe960_540" = "iFrame960×540";
+"iframe1280_720" = "iFrame1280×720";
+"1280_720" = "1280×720";
+"1920_1080" = "1920×1080";
+"3840_2160" = "3840×2160";
+
+"glares" = "Blitze";
+"focus" = "Fokus";
+"color" = "Farbe";
+"dpi_threshold" = "DPI-Schwelle";
+"angle_threshold" = "Winkel-Schwelle";
+"document_position" = "Dokumentenposition: Einzug";
+"minimum_indent_from" = "Der minimale Einzug von den Ecken des Dokuments zu den Rändern des Bildes";
+
+"default" = "Standard";
+"dd/mm/yyyy" = "dd/mm/jjjj";
+"mm/dd/yyyy" = "mm/dd/jjjj";
+"dd-mm-yyyy" = "dd-mm-jjjj";
+"mm-dd-yyyy" = "mm-dd-jjjj";
+"dd/mm/yy" = "dd/mm/jj";
+
+
+"procedure_type" = "Art des Authentifizierungsverfahrens";
+"messaging_procedure" = "Basis-Sicherheitsnachrichtverfahren";
+"access_key" = "Datenzugriffsschlüssel";
+"keys_value" = "Wert der Datenzugriffsschlüssel";
+"ds_certificates" = "Priorität der Verwendung von DS-Zertifikaten";
+"csca_certificates" = "Verwendung von externen CSCA-Zertifikaten";
+"pkd_certificates" = "Vertraue PKD-Zertifikaten";
+"passive_aAuthentication" = "Passive Authentifizierung (PA)";
+"aa_after_ca" = "Führen Sie AA nach CA nicht aus";
+"profiler_type" = "Profiler-Typ";
+"strict_iso" = "Strenges ISO-Protokoll";
+
+"read_passport" = "Pass lesen";
+"machine_readable_zone" = "Maschinenlesbarer Bereich (DG1)";
+"facial_data" = "Gesichtsdaten (DG2)";
+"fingerprints" = "Fingerabdrücke (DG3)";
+"iris_data" = "Iris-Daten (DG4)";
+"portrait_dg5" = "Porträt(e) (DG5)";
+"dg6" = "nicht definiert (DG6)";
+"dg7" = "Unterschrift / übliche Markenbild (DG7)";
+"dg8" = "Nicht definiert (DG8)";
+"dg9" = "Nicht definiert (DG9)";
+"dg10" = "Nicht definiert (DG10)";
+"de11" = "Zusätzliche persönliche Details (De11)";
+"dg12" = "Zusätzliche Dokumentdetails (DG12)";
+"dg13" = "Optionale Details (DG13)";
+"dg14" = "EAC-Informationen (DG14)";
+"dg15" = "Aktive Authentifizierungsinformationen (DG15)";
+"dg16" = "Benachrichtigungsempfänger (DG16)";
+
+"Read_elD" = "elD lesen";
+"data_groups" = "Datengruppen";
+"document_type_dg1" = "Dokumenttyp (DG1)";
+"issuing_state_dg2" = "Ausstellungsstaat (DG2)";
+"date_of_expiry_dg3" = "Ablaufdatum (DG3)";
+"given_name_dg4" = "Vorname (DG4)";
+"family_name_dg5" = "Familienname (DG5)";
+"pseudonym" = "Pseudonym (DG6)";
+"academic_title" = "Akademischer Titel (DG7)";
+"date_of_birthdg8" = "Geburtsdatum (DG8)";
+"place_of_birth_dg9" = "Geburtsort (DG9)";
+"2dg10" = "Nationalität (DG10)";
+"2dg11" = "Geschlecht (DG11)";
+"2dg12" = "Optionale Details (DG12)";
+"2dg13" = "Nicht definiert (DG13)";
+"2dg14" = "Nicht definiert (DG14)";
+"2dg15" = "Nicht definiert (DG15)";
+"2dg16" = "Nicht definiert (DG16)";
+"2dg17" = "Registrierungsort (DG17)";
+"2dg18" = "Registrierungsort (DG18)";
+"2dg19" = "Aufenthaltserlaubnis 1 (DG19)";
+"2dg20" = "Aufenthaltserlaubnis 2 (DG20)";
+"2dg21" = "Optionale Details (DG21)";
+
+"3read_eDL" = "eDL lesen";
+"3data_groups" = "Datengruppen";
+"3text_data_elements" = "Textdaten-Elemente (DG1)";
+"3dg2" = "Informationen zum Lizenzinhaber (DG2)";
+"3dg3" = "Details der ausstellenden Behörde (DG3)";
+"3dg4" = "Porträtbild (DG4)";
+"3dg5" = "Unterschrift / übliche Markenbild (DG5)";
+"3dg6" = "Biometrie - Gesichtsdaten (DG6)";
+"3dg7" = "Biometrie - Fingerabdruck (DG7)";
+"3dg8" = "Biometrie - Irisdaten (DG8)";
+"3dg9" = "Biometrie - Andere (DG9)";
+"3dg10" = "Nicht definiert (DG10)";
+"3dg11" = "Optionale Haushaltsdaten (DG11)";
+"3dg12" = "Nichtübereinstimmungswarnung (DG12)";
+"3dg13" = "Aktive Authentifizierungsinformationen (DG13)";
+"3dg14" = "EAC-Informationen (DG14)";
+
+"settings" = "Einstellungen";
+"enable" = "Aktivieren";
+"disable" = "Deaktivieren";
+"advanced_settings" = "Erweiterte Einstellungen";
+"debug_settings" = "Debug-Einstellungen";
+"event_logs" = "Ereignisprotokolle";
+"no_data_found" = "Keine Daten gefunden";
+"set_application_language" = "Anwendungssprache festlegen";
+"language_points" = "1. Tippen Sie auf Weiter. Ein neues Fenster wird geöffnet.
+2. Tippen Sie auf Sprache, um die gewünschte Sprache auszuwählen.";
+"language_desc" = "Wenn keine Spracheinstellungen verfügbar sind, gehen Sie zu den Spracheinstellungen Ihres Geräts und legen Sie zuerst die bevorzugte Sprache fest.";
+"continue" = "Weiter";
+"cancel" = "Abbrechen";
+"video_settings" = "Videoeinstellungen";
+"standard_inspection_procedure" = "Standardinspektionsverfahren";
+"advance_inspection_procedure" = "Erweiterte Inspektionsverfahren";
+"general_inspection_procedure" = "Allgemeines Inspektionsverfahren";
+"only_bac" = "BAC";
+"only_pace" = "PACE";
+"iso_protocol" = "ISO-Protokoll";
+"of_external_csca" = "von externem CSCA";
+"2006" = "Doc 9303, 6. Auflage, 2006";
+"2014" = "LSD und PKI-Wartung, v2.0, 21. Mai 2014";
+"only_rfid" = "RFID";
+"only_authentication" = "Authentifizierung";
+"menu" = "Menü";
+"choose_image" = "Bild auswählen";
+"camera" = "Kamera";
+"gallery" = "Galerie";
+

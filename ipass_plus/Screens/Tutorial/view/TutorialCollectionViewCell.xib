@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22684"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" restorationIdentifier="TutorialCollectionViewCell" reuseIdentifier="TutorialCollectionViewCell" id="gTV-IL-0wX" customClass="TutorialCollectionViewCell" customModule="ipass_plus" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="262" height="262"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="262" height="262"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fDv-T9-C4H">
+                        <rect key="frame" x="0.0" y="0.0" width="262" height="262"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="e3J-CO-IJh">
+                                <rect key="frame" x="0.0" y="0.0" width="262" height="262"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBrownColor"/>
+                        <constraints>
+                            <constraint firstItem="e3J-CO-IJh" firstAttribute="leading" secondItem="fDv-T9-C4H" secondAttribute="leading" id="7wX-6f-3V6"/>
+                            <constraint firstItem="e3J-CO-IJh" firstAttribute="top" secondItem="fDv-T9-C4H" secondAttribute="top" id="Bfz-l9-aRz"/>
+                            <constraint firstAttribute="trailing" secondItem="e3J-CO-IJh" secondAttribute="trailing" id="KRj-2J-dok"/>
+                            <constraint firstAttribute="bottom" secondItem="e3J-CO-IJh" secondAttribute="bottom" id="g1E-7j-oad"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="fDv-T9-C4H" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="GHE-zX-Fkj"/>
+                <constraint firstAttribute="bottom" secondItem="fDv-T9-C4H" secondAttribute="bottom" id="LJk-IL-mDI"/>
+                <constraint firstAttribute="trailing" secondItem="fDv-T9-C4H" secondAttribute="trailing" id="eEb-cU-e9L"/>
+                <constraint firstItem="fDv-T9-C4H" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="lFa-fY-ZOc"/>
+            </constraints>
+            <size key="customSize" width="262" height="262"/>
+            <connections>
+                <outlet property="img" destination="e3J-CO-IJh" id="a5q-Hh-F9d"/>
+            </connections>
+            <point key="canvasLocation" x="245.80152671755724" y="63.380281690140848"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBrownColor">
+            <color red="0.63529411764705879" green="0.51764705882352946" blue="0.36862745098039218" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
